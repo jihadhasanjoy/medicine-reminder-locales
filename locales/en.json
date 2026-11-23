@@ -316,7 +316,11 @@
     "outSave": "Save count and mark taken",
     "takeAnyway": "Take anyway",
     "outTooFew": "Enter at least {{amount}}.",
-    "takeAll": "Take all"
+    "takeAll": "Take all",
+    "takeAllTitle_one": "Mark {{count}} medicine as taken?",
+    "takeAllTitle_other": "Mark {{count}} medicines as taken?",
+    "markTaken_one": "Mark {{count}} as taken",
+    "markTaken_other": "Mark {{count}} as taken"
   },
   "medicine": {
     "addTitle": "Add medicine",

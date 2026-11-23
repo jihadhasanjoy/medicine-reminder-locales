@@ -316,7 +316,11 @@
     "outSave": "Anzahl speichern und als genommen markieren",
     "takeAnyway": "Trotzdem genommen",
     "outTooFew": "Mindestens {{amount}} eingeben.",
-    "takeAll": "Alle genommen"
+    "takeAll": "Alle genommen",
+    "takeAllTitle_one": "{{count}} Medikament als genommen markieren?",
+    "takeAllTitle_other": "{{count}} Medikamente als genommen markieren?",
+    "markTaken_one": "{{count}} als genommen markieren",
+    "markTaken_other": "{{count}} als genommen markieren"
   },
   "medicine": {
     "addTitle": "Medikament hinzufügen",

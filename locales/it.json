@@ -316,7 +316,11 @@
     "outSave": "Salva il conteggio e segna come presa",
     "takeAnyway": "Presa comunque",
     "outTooFew": "Inserisci almeno {{amount}}.",
-    "takeAll": "Prese tutte"
+    "takeAll": "Prese tutte",
+    "takeAllTitle_one": "Segnare {{count}} medicina come presa?",
+    "takeAllTitle_other": "Segnare {{count}} medicine come prese?",
+    "markTaken_one": "Segna {{count}} come presa",
+    "markTaken_other": "Segna {{count}} come prese"
   },
   "medicine": {
     "addTitle": "Aggiungi medicina",

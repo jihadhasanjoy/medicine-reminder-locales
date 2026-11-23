@@ -316,7 +316,11 @@
     "outSave": "گنتی محفوظ کریں اور لی گئی نشان لگائیں",
     "takeAnyway": "پھر بھی لی",
     "outTooFew": "کم از کم {{amount}} لکھیں۔",
-    "takeAll": "سب لی"
+    "takeAll": "سب لی",
+    "takeAllTitle_one": "{{count}} دوا لی گئی نشان لگائیں؟",
+    "takeAllTitle_other": "{{count}} دوائیں لی گئیں نشان لگائیں؟",
+    "markTaken_one": "{{count}} لی گئی نشان لگائیں",
+    "markTaken_other": "{{count}} لی گئیں نشان لگائیں"
   },
   "medicine": {
     "addTitle": "دوا شامل کریں",

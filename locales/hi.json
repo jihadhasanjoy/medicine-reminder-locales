@@ -316,7 +316,11 @@
     "outSave": "गिनती सेव करें और ली गई मार्क करें",
     "takeAnyway": "फिर भी ली",
     "outTooFew": "कम से कम {{amount}} लिखें।",
-    "takeAll": "सब ली"
+    "takeAll": "सब ली",
+    "takeAllTitle_one": "{{count}} दवा ली गई मार्क करें?",
+    "takeAllTitle_other": "{{count}} दवाएँ ली गईं मार्क करें?",
+    "markTaken_one": "{{count}} ली गई मार्क करें",
+    "markTaken_other": "{{count}} ली गईं मार्क करें"
   },
   "medicine": {
     "addTitle": "दवा जोड़ें",

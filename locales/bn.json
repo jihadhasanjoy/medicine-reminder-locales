@@ -316,7 +316,11 @@
     "outSave": "সংখ্যা সেভ করে খাওয়া হয়েছে দিন",
     "takeAnyway": "তবুও খাওয়া হয়েছে",
     "outTooFew": "কমপক্ষে {{amount}} লিখুন।",
-    "takeAll": "সব খাওয়া হয়েছে"
+    "takeAll": "সব খাওয়া হয়েছে",
+    "takeAllTitle_one": "{{count}}টি ওষুধ খাওয়া হয়েছে দেবেন?",
+    "takeAllTitle_other": "{{count}}টি ওষুধ খাওয়া হয়েছে দেবেন?",
+    "markTaken_one": "{{count}}টি খাওয়া হয়েছে দিন",
+    "markTaken_other": "{{count}}টি খাওয়া হয়েছে দিন"
   },
   "medicine": {
     "addTitle": "ওষুধ যোগ করুন",
