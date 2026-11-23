@@ -51,8 +51,7 @@
     "selfExists": "\"Ich\" gibt es schon",
     "cantRemoveSelf": "Du kannst dich nicht selbst entfernen",
     "unknownMember": "Wähle, für wen es ist",
-    "unknownMedicine": "Dieses Medikament ist nicht mehr in deiner Liste.",
-    "outOfStock": "Zu wenig für diese Dosis. Nach dem Nachkaufen die Anzahl anpassen."
+    "unknownMedicine": "Dieses Medikament ist nicht mehr in deiner Liste."
   },
   "history": {
     "emptyTitle": "Noch kein Verlauf",
@@ -298,7 +297,13 @@
     },
     "dueNow_one": "Jetzt fällig: {{count}} Medikament von {{time}}",
     "dueNow_other": "Jetzt fällig: {{count}} Medikamente von {{time}}",
-    "outOfStock": "Keine mehr da"
+    "outOfStock": "Keine mehr da",
+    "outTitle": "Kein {{name}} mehr",
+    "outBody": "Laut Zählung ist nichts mehr da. Nachgekauft? Gib ein, wie viele du jetzt hast.",
+    "outCount": "Wie viele du jetzt hast",
+    "outSave": "Anzahl speichern und als genommen markieren",
+    "takeAnyway": "Trotzdem genommen",
+    "outTooFew": "Mindestens {{amount}} eingeben."
   },
   "medicine": {
     "addTitle": "Medikament hinzufügen",

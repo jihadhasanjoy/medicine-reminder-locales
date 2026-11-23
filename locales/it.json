@@ -51,8 +51,7 @@
     "selfExists": "C'è già \"Io\"",
     "cantRemoveSelf": "Non puoi rimuovere te stesso",
     "unknownMember": "Scegli per chi è",
-    "unknownMedicine": "Questa medicina non è più nella tua lista.",
-    "outOfStock": "Non basta per questa dose. Aggiorna il conteggio dopo averlo ricomprato."
+    "unknownMedicine": "Questa medicina non è più nella tua lista."
   },
   "history": {
     "emptyTitle": "Ancora nessuna cronologia",
@@ -298,7 +297,13 @@
     },
     "dueNow_one": "Da prendere ora: {{count}} medicina delle {{time}}",
     "dueNow_other": "Da prendere ora: {{count}} medicine delle {{time}}",
-    "outOfStock": "Finite"
+    "outOfStock": "Finite",
+    "outTitle": "{{name}} finito",
+    "outBody": "Secondo il conteggio non ne resta. Ne hai comprato altro? Inserisci quanti ne hai ora.",
+    "outCount": "Quanti ne hai ora",
+    "outSave": "Salva il conteggio e segna come presa",
+    "takeAnyway": "Presa comunque",
+    "outTooFew": "Inserisci almeno {{amount}}."
   },
   "medicine": {
     "addTitle": "Aggiungi medicina",

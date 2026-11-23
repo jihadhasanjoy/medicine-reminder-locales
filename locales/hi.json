@@ -51,8 +51,7 @@
     "selfExists": "\"मैं\" पहले से है",
     "cantRemoveSelf": "खुद को हटा नहीं सकते",
     "unknownMember": "किसके लिए है, चुनें",
-    "unknownMedicine": "यह दवा अब आपकी सूची में नहीं है।",
-    "outOfStock": "इस खुराक के लिए काफ़ी नहीं बचा। दोबारा लाने पर गिनती अपडेट करें।"
+    "unknownMedicine": "यह दवा अब आपकी सूची में नहीं है।"
   },
   "history": {
     "emptyTitle": "अभी कोई इतिहास नहीं",
@@ -298,7 +297,13 @@
     },
     "dueNow_one": "अभी लें: {{time}} की {{count}} दवा",
     "dueNow_other": "अभी लें: {{time}} की {{count}} दवाएँ",
-    "outOfStock": "गोलियाँ खत्म"
+    "outOfStock": "गोलियाँ खत्म",
+    "outTitle": "{{name}} खत्म",
+    "outBody": "गिनती के हिसाब से कुछ नहीं बचा। और लाए? अभी कितनी हैं लिखें।",
+    "outCount": "अभी कितनी हैं",
+    "outSave": "गिनती सेव करें और ली गई मार्क करें",
+    "takeAnyway": "फिर भी ली",
+    "outTooFew": "कम से कम {{amount}} लिखें।"
   },
   "medicine": {
     "addTitle": "दवा जोड़ें",

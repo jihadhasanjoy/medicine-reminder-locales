@@ -51,8 +51,7 @@
     "selfExists": "There's already a \"Me\"",
     "cantRemoveSelf": "You can't remove yourself",
     "unknownMember": "Pick who it's for",
-    "unknownMedicine": "That medicine is no longer in your list.",
-    "outOfStock": "Not enough left for this dose. Update the count after a refill."
+    "unknownMedicine": "That medicine is no longer in your list."
   },
   "history": {
     "emptyTitle": "No history yet",
@@ -298,7 +297,13 @@
     },
     "dueNow_one": "Due now: {{count}} medicine from {{time}}",
     "dueNow_other": "Due now: {{count}} medicines from {{time}}",
-    "outOfStock": "No pills left"
+    "outOfStock": "No pills left",
+    "outTitle": "No {{name}} left",
+    "outBody": "The count says none are left. Bought more? Enter how many you have now.",
+    "outCount": "How many you have now",
+    "outSave": "Save count and mark taken",
+    "takeAnyway": "Take anyway",
+    "outTooFew": "Enter at least {{amount}}."
   },
   "medicine": {
     "addTitle": "Add medicine",
