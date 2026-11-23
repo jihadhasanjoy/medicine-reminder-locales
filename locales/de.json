@@ -299,6 +299,7 @@
     "addTitle": "Medikament hinzufügen",
     "editTitle": "Medikament bearbeiten",
     "forWhom": "Für",
+    "forWhomHint": "Wähle eine oder mehrere Personen. Jede bekommt eigene Erinnerungen und Zählung.",
     "name": "Name des Medikaments",
     "namePlaceholder": "z. B. Ibuprofen",
     "strength": "Stärke",
@@ -371,7 +372,9 @@
     "leftShort_other": "noch {{count}}",
     "delete": "Medikament löschen",
     "deleteTitle": "{{name}} löschen?",
-    "deleteBody": "Seine Erinnerungen und sein Verlauf werden auch gelöscht. Um den Verlauf zu behalten, pausiere es lieber."
+    "deleteBody": "Seine Erinnerungen und sein Verlauf werden auch gelöscht. Um den Verlauf zu behalten, pausiere es lieber.",
+    "saveFor_one": "Für {{count}} Person speichern",
+    "saveFor_other": "Für {{count}} Personen speichern"
   },
   "members": {
     "title": "Familie",

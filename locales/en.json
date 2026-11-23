@@ -299,6 +299,7 @@
     "addTitle": "Add medicine",
     "editTitle": "Edit medicine",
     "forWhom": "For",
+    "forWhomHint": "Pick one or more people. Each gets their own reminders and count.",
     "name": "Medicine name",
     "namePlaceholder": "e.g. Napa",
     "strength": "Strength",
@@ -371,7 +372,9 @@
     "leftShort_other": "{{count}} left",
     "delete": "Delete medicine",
     "deleteTitle": "Delete {{name}}?",
-    "deleteBody": "Its reminders and history are removed too. To keep the history, pause it instead."
+    "deleteBody": "Its reminders and history are removed too. To keep the history, pause it instead.",
+    "saveFor_one": "Save for {{count}} person",
+    "saveFor_other": "Save for {{count}} people"
   },
   "members": {
     "title": "Family",

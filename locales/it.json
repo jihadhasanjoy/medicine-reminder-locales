@@ -299,6 +299,7 @@
     "addTitle": "Aggiungi medicina",
     "editTitle": "Modifica medicina",
     "forWhom": "Per",
+    "forWhomHint": "Scegli una o più persone. Ognuna ha i suoi promemoria e il suo conteggio.",
     "name": "Nome della medicina",
     "namePlaceholder": "es. Tachipirina",
     "strength": "Dosaggio",
@@ -371,7 +372,9 @@
     "leftShort_other": "ne restano {{count}}",
     "delete": "Elimina medicina",
     "deleteTitle": "Eliminare {{name}}?",
-    "deleteBody": "Vengono eliminati anche i promemoria e la cronologia. Per tenere la cronologia, sospendila invece."
+    "deleteBody": "Vengono eliminati anche i promemoria e la cronologia. Per tenere la cronologia, sospendila invece.",
+    "saveFor_one": "Salva per {{count}} persona",
+    "saveFor_other": "Salva per {{count}} persone"
   },
   "members": {
     "title": "Famiglia",
