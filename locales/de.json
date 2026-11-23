@@ -388,5 +388,10 @@
     "removeBody": "Die Medikamente und der Verlauf von {{name}} werden auch gelöscht.",
     "medicines_one": "{{count}} Medikament",
     "medicines_other": "{{count}} Medikamente"
+  },
+  "medicines": {
+    "count_one": "{{count}} Medikament",
+    "count_other": "{{count}} Medikamente",
+    "noneFor": "Für diese Person noch keine Medikamente"
   }
 }

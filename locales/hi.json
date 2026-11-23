@@ -388,5 +388,10 @@
     "removeBody": "{{name}} की दवाएँ और इतिहास भी हट जाएँगे।",
     "medicines_one": "{{count}} दवा",
     "medicines_other": "{{count}} दवाएँ"
+  },
+  "medicines": {
+    "count_one": "{{count}} दवा",
+    "count_other": "{{count}} दवाएँ",
+    "noneFor": "इस व्यक्ति के लिए अभी कोई दवा नहीं"
   }
 }

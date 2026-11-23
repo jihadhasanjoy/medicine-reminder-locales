@@ -388,5 +388,10 @@
     "removeBody": "{{name}}-এর ওষুধ ও ইতিহাসও মুছে যাবে।",
     "medicines_one": "{{count}}টি ওষুধ",
     "medicines_other": "{{count}}টি ওষুধ"
+  },
+  "medicines": {
+    "count_one": "{{count}}টি ওষুধ",
+    "count_other": "{{count}}টি ওষুধ",
+    "noneFor": "এই মানুষটির জন্য এখনো কোনো ওষুধ নেই"
   }
 }

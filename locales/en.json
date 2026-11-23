@@ -388,5 +388,10 @@
     "removeBody": "{{name}}'s medicines and history are removed too.",
     "medicines_one": "{{count}} medicine",
     "medicines_other": "{{count}} medicines"
+  },
+  "medicines": {
+    "count_one": "{{count}} medicine",
+    "count_other": "{{count}} medicines",
+    "noneFor": "No medicines for this person yet"
   }
 }

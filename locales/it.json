@@ -388,5 +388,10 @@
     "removeBody": "Anche le medicine e la cronologia di {{name}} vengono eliminate.",
     "medicines_one": "{{count}} medicina",
     "medicines_other": "{{count}} medicine"
+  },
+  "medicines": {
+    "count_one": "{{count}} medicina",
+    "count_other": "{{count}} medicine",
+    "noneFor": "Ancora nessuna medicina per questa persona"
   }
 }

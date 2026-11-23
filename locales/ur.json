@@ -388,5 +388,10 @@
     "removeBody": "{{name}} کی دوائیں اور تاریخچہ بھی حذف ہو جائے گا۔",
     "medicines_one": "{{count}} دوا",
     "medicines_other": "{{count}} دوائیں"
+  },
+  "medicines": {
+    "count_one": "{{count}} دوا",
+    "count_other": "{{count}} دوائیں",
+    "noneFor": "اس شخص کے لیے ابھی کوئی دوا نہیں"
   }
 }
