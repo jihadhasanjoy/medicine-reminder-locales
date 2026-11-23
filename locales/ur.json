@@ -51,7 +51,8 @@
     "selfExists": "\"میں\" پہلے سے موجود ہے",
     "cantRemoveSelf": "اپنے آپ کو نہیں ہٹا سکتے",
     "unknownMember": "کس کے لیے ہے، چنیں",
-    "unknownMedicine": "یہ دوا اب آپ کی فہرست میں نہیں ہے۔"
+    "unknownMedicine": "یہ دوا اب آپ کی فہرست میں نہیں ہے۔",
+    "outOfStock": "اس خوراک کے لیے کافی نہیں بچا۔ دوبارہ لانے پر گنتی اپ ڈیٹ کریں۔"
   },
   "history": {
     "emptyTitle": "ابھی کوئی تاریخچہ نہیں",
@@ -151,7 +152,9 @@
       "refillBody_other": "صرف {{count}} خوراکیں باقی ہیں۔ دوبارہ خرید لیں۔",
       "planTitle": "آج کی دوائیں",
       "planBody_one": "آج {{count}} خوراک، پہلی {{time}} بجے۔",
-      "planBody_other": "آج {{count}} خوراکیں، پہلی {{time}} بجے۔"
+      "planBody_other": "آج {{count}} خوراکیں، پہلی {{time}} بجے۔",
+      "outTitle": "{{name}} ختم",
+      "outBody": "لینے کو کچھ نہیں بچا۔ دوبارہ لانے پر دوائیں میں گنتی اپ ڈیٹ کریں۔"
     }
   },
   "error": {
@@ -294,7 +297,8 @@
       "skipped": "چھوڑ دی"
     },
     "dueNow_one": "ابھی لیں: {{time}} کی {{count}} دوا",
-    "dueNow_other": "ابھی لیں: {{time}} کی {{count}} دوائیں"
+    "dueNow_other": "ابھی لیں: {{time}} کی {{count}} دوائیں",
+    "outOfStock": "گولیاں ختم"
   },
   "medicine": {
     "addTitle": "دوا شامل کریں",

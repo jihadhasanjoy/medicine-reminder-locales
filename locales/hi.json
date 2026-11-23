@@ -51,7 +51,8 @@
     "selfExists": "\"मैं\" पहले से है",
     "cantRemoveSelf": "खुद को हटा नहीं सकते",
     "unknownMember": "किसके लिए है, चुनें",
-    "unknownMedicine": "यह दवा अब आपकी सूची में नहीं है।"
+    "unknownMedicine": "यह दवा अब आपकी सूची में नहीं है।",
+    "outOfStock": "इस खुराक के लिए काफ़ी नहीं बचा। दोबारा लाने पर गिनती अपडेट करें।"
   },
   "history": {
     "emptyTitle": "अभी कोई इतिहास नहीं",
@@ -151,7 +152,9 @@
       "refillBody_other": "सिर्फ़ {{count}} खुराकें बची हैं। फिर से खरीद लें।",
       "planTitle": "आज की दवाएँ",
       "planBody_one": "आज {{count}} खुराक, पहली {{time}} बजे।",
-      "planBody_other": "आज {{count}} खुराकें, पहली {{time}} बजे।"
+      "planBody_other": "आज {{count}} खुराकें, पहली {{time}} बजे।",
+      "outTitle": "{{name}} खत्म",
+      "outBody": "लेने के लिए कुछ नहीं बचा। दोबारा लाने पर दवाएँ में गिनती अपडेट करें।"
     }
   },
   "error": {
@@ -294,7 +297,8 @@
       "skipped": "छोड़ी"
     },
     "dueNow_one": "अभी लें: {{time}} की {{count}} दवा",
-    "dueNow_other": "अभी लें: {{time}} की {{count}} दवाएँ"
+    "dueNow_other": "अभी लें: {{time}} की {{count}} दवाएँ",
+    "outOfStock": "गोलियाँ खत्म"
   },
   "medicine": {
     "addTitle": "दवा जोड़ें",

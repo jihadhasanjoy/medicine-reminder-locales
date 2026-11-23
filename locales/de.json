@@ -51,7 +51,8 @@
     "selfExists": "\"Ich\" gibt es schon",
     "cantRemoveSelf": "Du kannst dich nicht selbst entfernen",
     "unknownMember": "Wähle, für wen es ist",
-    "unknownMedicine": "Dieses Medikament ist nicht mehr in deiner Liste."
+    "unknownMedicine": "Dieses Medikament ist nicht mehr in deiner Liste.",
+    "outOfStock": "Zu wenig für diese Dosis. Nach dem Nachkaufen die Anzahl anpassen."
   },
   "history": {
     "emptyTitle": "Noch kein Verlauf",
@@ -151,7 +152,9 @@
       "refillBody_other": "Nur noch {{count}} Dosen. Zeit zum Nachkaufen.",
       "planTitle": "Deine Medikamente heute",
       "planBody_one": "Heute {{count}} Dosis, die erste um {{time}}.",
-      "planBody_other": "Heute {{count}} Dosen, die erste um {{time}}."
+      "planBody_other": "Heute {{count}} Dosen, die erste um {{time}}.",
+      "outTitle": "{{name}} ist leer",
+      "outBody": "Nichts mehr da. Nach dem Nachkaufen die Anzahl unter Medikamente anpassen."
     }
   },
   "error": {
@@ -294,7 +297,8 @@
       "skipped": "Ausgelassen"
     },
     "dueNow_one": "Jetzt fällig: {{count}} Medikament von {{time}}",
-    "dueNow_other": "Jetzt fällig: {{count}} Medikamente von {{time}}"
+    "dueNow_other": "Jetzt fällig: {{count}} Medikamente von {{time}}",
+    "outOfStock": "Keine mehr da"
   },
   "medicine": {
     "addTitle": "Medikament hinzufügen",

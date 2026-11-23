@@ -51,7 +51,8 @@
     "selfExists": "There's already a \"Me\"",
     "cantRemoveSelf": "You can't remove yourself",
     "unknownMember": "Pick who it's for",
-    "unknownMedicine": "That medicine is no longer in your list."
+    "unknownMedicine": "That medicine is no longer in your list.",
+    "outOfStock": "Not enough left for this dose. Update the count after a refill."
   },
   "history": {
     "emptyTitle": "No history yet",
@@ -151,7 +152,9 @@
       "refillBody_other": "Only {{count}} doses left. Time to refill.",
       "planTitle": "Today's medicines",
       "planBody_one": "{{count}} dose today, the first at {{time}}.",
-      "planBody_other": "{{count}} doses today, the first at {{time}}."
+      "planBody_other": "{{count}} doses today, the first at {{time}}.",
+      "outTitle": "Out of {{name}}",
+      "outBody": "None left to take. Once you refill, update the count in Medicines."
     }
   },
   "error": {
@@ -294,7 +297,8 @@
       "skipped": "Skipped"
     },
     "dueNow_one": "Due now: {{count}} medicine from {{time}}",
-    "dueNow_other": "Due now: {{count}} medicines from {{time}}"
+    "dueNow_other": "Due now: {{count}} medicines from {{time}}",
+    "outOfStock": "No pills left"
   },
   "medicine": {
     "addTitle": "Add medicine",

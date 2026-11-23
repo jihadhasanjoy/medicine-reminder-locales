@@ -51,7 +51,8 @@
     "selfExists": "\"আমি\" আগে থেকেই আছে",
     "cantRemoveSelf": "নিজেকে সরানো যায় না",
     "unknownMember": "কার জন্য তা বাছুন",
-    "unknownMedicine": "এই ওষুধটি আর তালিকায় নেই।"
+    "unknownMedicine": "এই ওষুধটি আর তালিকায় নেই।",
+    "outOfStock": "এই ডোজের মতো যথেষ্ট নেই। নতুন করে কিনলে সংখ্যা ঠিক করুন।"
   },
   "history": {
     "emptyTitle": "এখনো কোনো ইতিহাস নেই",
@@ -151,7 +152,9 @@
       "refillBody_other": "মাত্র {{count}} ডোজ বাকি। আবার কিনে রাখুন।",
       "planTitle": "আজকের ওষুধ",
       "planBody_one": "আজ {{count}} ডোজ, প্রথমটি {{time}}-এ।",
-      "planBody_other": "আজ {{count}} ডোজ, প্রথমটি {{time}}-এ।"
+      "planBody_other": "আজ {{count}} ডোজ, প্রথমটি {{time}}-এ।",
+      "outTitle": "{{name}} শেষ",
+      "outBody": "খাওয়ার মতো আর নেই। নতুন করে কিনলে ওষুধ অংশে সংখ্যা ঠিক করুন।"
     }
   },
   "error": {
@@ -294,7 +297,8 @@
       "skipped": "বাদ দেওয়া"
     },
     "dueNow_one": "এখন খাওয়ার সময়: {{time}}-এর {{count}}টি ওষুধ",
-    "dueNow_other": "এখন খাওয়ার সময়: {{time}}-এর {{count}}টি ওষুধ"
+    "dueNow_other": "এখন খাওয়ার সময়: {{time}}-এর {{count}}টি ওষুধ",
+    "outOfStock": "আর ওষুধ নেই"
   },
   "medicine": {
     "addTitle": "ওষুধ যোগ করুন",

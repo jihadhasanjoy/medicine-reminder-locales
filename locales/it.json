@@ -51,7 +51,8 @@
     "selfExists": "C'è già \"Io\"",
     "cantRemoveSelf": "Non puoi rimuovere te stesso",
     "unknownMember": "Scegli per chi è",
-    "unknownMedicine": "Questa medicina non è più nella tua lista."
+    "unknownMedicine": "Questa medicina non è più nella tua lista.",
+    "outOfStock": "Non basta per questa dose. Aggiorna il conteggio dopo averlo ricomprato."
   },
   "history": {
     "emptyTitle": "Ancora nessuna cronologia",
@@ -151,7 +152,9 @@
       "refillBody_other": "Restano solo {{count}} dosi. È ora di ricomprarla.",
       "planTitle": "Le medicine di oggi",
       "planBody_one": "Oggi {{count}} dose, la prima alle {{time}}.",
-      "planBody_other": "Oggi {{count}} dosi, la prima alle {{time}}."
+      "planBody_other": "Oggi {{count}} dosi, la prima alle {{time}}.",
+      "outTitle": "{{name}} finito",
+      "outBody": "Non ne resta. Dopo averlo ricomprato, aggiorna il conteggio in Medicine."
     }
   },
   "error": {
@@ -294,7 +297,8 @@
       "skipped": "Saltata"
     },
     "dueNow_one": "Da prendere ora: {{count}} medicina delle {{time}}",
-    "dueNow_other": "Da prendere ora: {{count}} medicine delle {{time}}"
+    "dueNow_other": "Da prendere ora: {{count}} medicine delle {{time}}",
+    "outOfStock": "Finite"
   },
   "medicine": {
     "addTitle": "Aggiungi medicina",
