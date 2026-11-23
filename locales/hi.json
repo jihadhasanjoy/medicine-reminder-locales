@@ -54,14 +54,26 @@
     "unknownMedicine": "यह दवा अब आपकी सूची में नहीं है।"
   },
   "history": {
-    "emptyTitle": "अभी कोई इतिहास नहीं",
-    "emptyBody": "जो खुराक आप लेंगे, छोड़ेंगे या जो छूट जाएगी, वह यहाँ दिखेगी।",
-    "week": "पिछले 7 दिन",
     "rate": "{{rate}}% ली गईं",
     "noData": "अभी कोई खुराक नहीं",
-    "counts": "ली {{taken}} · छोड़ी {{skipped}} · छूटी {{missed}}",
     "today": "आज",
-    "removed": "हटाई गई दवा"
+    "removed": "हटाई गई दवा",
+    "thisWeek": "इस हफ़्ते",
+    "thisMonth": "इस महीने",
+    "previous": "पहले",
+    "next": "बाद में",
+    "dayLabel": "{{day}}: {{total}} में से {{taken}} ली गईं",
+    "dayNone": "{{day}}: कोई खुराक नहीं",
+    "noDosesDay": "इस दिन कोई खुराक नहीं।",
+    "takenShare": "खुराकें ली गईं",
+    "bestStreak": "सबसे लंबा सिलसिला",
+    "streakDays_one": "{{count}} पूरा दिन",
+    "streakDays_other": "लगातार {{count}} पूरे दिन",
+    "mostMissed": "सबसे ज़्यादा छूटी",
+    "weekTab": "हफ़्ता",
+    "monthTab": "महीना",
+    "periodLabel": "इतिहास इस तरह दिखाएँ",
+    "noStreak": "अभी नहीं"
   },
   "settings": {
     "title": "सेटिंग्स",

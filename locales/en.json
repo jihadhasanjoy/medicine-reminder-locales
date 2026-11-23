@@ -54,14 +54,26 @@
     "unknownMedicine": "That medicine is no longer in your list."
   },
   "history": {
-    "emptyTitle": "No history yet",
-    "emptyBody": "Doses you take, skip or miss show up here.",
-    "week": "Last 7 days",
     "rate": "{{rate}}% taken",
     "noData": "No doses yet",
-    "counts": "{{taken}} taken · {{skipped}} skipped · {{missed}} missed",
     "today": "Today",
-    "removed": "Removed medicine"
+    "removed": "Removed medicine",
+    "thisWeek": "This week",
+    "thisMonth": "This month",
+    "previous": "Earlier",
+    "next": "Later",
+    "dayLabel": "{{day}}: {{taken}} of {{total}} taken",
+    "dayNone": "{{day}}: no doses",
+    "noDosesDay": "No doses on this day.",
+    "takenShare": "of doses taken",
+    "bestStreak": "Best streak",
+    "streakDays_one": "{{count}} full day",
+    "streakDays_other": "{{count}} full days in a row",
+    "mostMissed": "Missed most",
+    "weekTab": "Week",
+    "monthTab": "Month",
+    "periodLabel": "Show history by",
+    "noStreak": "None yet"
   },
   "settings": {
     "title": "Settings",

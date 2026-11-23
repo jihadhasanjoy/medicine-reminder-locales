@@ -54,14 +54,26 @@
     "unknownMedicine": "এই ওষুধটি আর তালিকায় নেই।"
   },
   "history": {
-    "emptyTitle": "এখনো কোনো ইতিহাস নেই",
-    "emptyBody": "যে ডোজ খাবেন, বাদ দেবেন বা মিস করবেন, তা এখানে দেখা যাবে।",
-    "week": "গত ৭ দিন",
     "rate": "{{rate}}% খাওয়া হয়েছে",
     "noData": "এখনো কোনো ডোজ নেই",
-    "counts": "খেয়েছি {{taken}} · বাদ {{skipped}} · মিস {{missed}}",
     "today": "আজ",
-    "removed": "মুছে ফেলা ওষুধ"
+    "removed": "মুছে ফেলা ওষুধ",
+    "thisWeek": "এই সপ্তাহ",
+    "thisMonth": "এই মাস",
+    "previous": "আগের",
+    "next": "পরের",
+    "dayLabel": "{{day}}: {{total}}টির মধ্যে {{taken}}টি খাওয়া",
+    "dayNone": "{{day}}: কোনো ডোজ নেই",
+    "noDosesDay": "এই দিনে কোনো ডোজ নেই।",
+    "takenShare": "ডোজ খাওয়া হয়েছে",
+    "bestStreak": "সেরা ধারা",
+    "streakDays_one": "{{count}} দিন পুরো",
+    "streakDays_other": "টানা {{count}} দিন পুরো",
+    "mostMissed": "সবচেয়ে বেশি বাদ",
+    "weekTab": "সপ্তাহ",
+    "monthTab": "মাস",
+    "periodLabel": "ইতিহাস দেখুন",
+    "noStreak": "এখনো নেই"
   },
   "settings": {
     "title": "সেটিংস",

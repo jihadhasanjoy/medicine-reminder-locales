@@ -54,14 +54,26 @@
     "unknownMedicine": "یہ دوا اب آپ کی فہرست میں نہیں ہے۔"
   },
   "history": {
-    "emptyTitle": "ابھی کوئی تاریخچہ نہیں",
-    "emptyBody": "جو خوراک آپ لیں گے، چھوڑیں گے یا جو چھوٹ جائے گی، وہ یہاں نظر آئے گی۔",
-    "week": "پچھلے 7 دن",
     "rate": "{{rate}}% لی گئیں",
     "noData": "ابھی کوئی خوراک نہیں",
-    "counts": "لی {{taken}} · چھوڑی {{skipped}} · چھوٹی {{missed}}",
     "today": "آج",
-    "removed": "حذف شدہ دوا"
+    "removed": "حذف شدہ دوا",
+    "thisWeek": "اس ہفتے",
+    "thisMonth": "اس مہینے",
+    "previous": "پہلے",
+    "next": "بعد میں",
+    "dayLabel": "{{day}}: {{total}} میں سے {{taken}} لی گئیں",
+    "dayNone": "{{day}}: کوئی خوراک نہیں",
+    "noDosesDay": "اس دن کوئی خوراک نہیں۔",
+    "takenShare": "خوراکیں لی گئیں",
+    "bestStreak": "بہترین سلسلہ",
+    "streakDays_one": "{{count}} پورا دن",
+    "streakDays_other": "مسلسل {{count}} پورے دن",
+    "mostMissed": "سب سے زیادہ چھوٹی",
+    "weekTab": "ہفتہ",
+    "monthTab": "مہینہ",
+    "periodLabel": "تاریخ اس طرح دکھائیں",
+    "noStreak": "ابھی نہیں"
   },
   "settings": {
     "title": "ترتیبات",

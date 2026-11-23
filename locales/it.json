@@ -54,14 +54,26 @@
     "unknownMedicine": "Questa medicina non è più nella tua lista."
   },
   "history": {
-    "emptyTitle": "Ancora nessuna cronologia",
-    "emptyBody": "Qui compaiono le dosi prese, saltate o dimenticate.",
-    "week": "Ultimi 7 giorni",
     "rate": "{{rate}}% prese",
     "noData": "Ancora nessuna dose",
-    "counts": "{{taken}} prese · {{skipped}} saltate · {{missed}} dimenticate",
     "today": "Oggi",
-    "removed": "Medicina eliminata"
+    "removed": "Medicina eliminata",
+    "thisWeek": "Questa settimana",
+    "thisMonth": "Questo mese",
+    "previous": "Prima",
+    "next": "Dopo",
+    "dayLabel": "{{day}}: {{taken}} di {{total}} prese",
+    "dayNone": "{{day}}: nessuna dose",
+    "noDosesDay": "Nessuna dose in questo giorno.",
+    "takenShare": "delle dosi prese",
+    "bestStreak": "Serie migliore",
+    "streakDays_one": "{{count}} giorno completo",
+    "streakDays_other": "{{count}} giorni completi di fila",
+    "mostMissed": "Saltata più spesso",
+    "weekTab": "Settimana",
+    "monthTab": "Mese",
+    "periodLabel": "Mostra la cronologia per",
+    "noStreak": "Ancora nessuna"
   },
   "settings": {
     "title": "Impostazioni",

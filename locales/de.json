@@ -54,14 +54,26 @@
     "unknownMedicine": "Dieses Medikament ist nicht mehr in deiner Liste."
   },
   "history": {
-    "emptyTitle": "Noch kein Verlauf",
-    "emptyBody": "Genommene, ausgelassene und verpasste Dosen erscheinen hier.",
-    "week": "Letzte 7 Tage",
     "rate": "{{rate}} % genommen",
     "noData": "Noch keine Dosen",
-    "counts": "{{taken}} genommen · {{skipped}} ausgelassen · {{missed}} verpasst",
     "today": "Heute",
-    "removed": "Gelöschtes Medikament"
+    "removed": "Gelöschtes Medikament",
+    "thisWeek": "Diese Woche",
+    "thisMonth": "Dieser Monat",
+    "previous": "Früher",
+    "next": "Später",
+    "dayLabel": "{{day}}: {{taken}} von {{total}} genommen",
+    "dayNone": "{{day}}: keine Dosen",
+    "noDosesDay": "An diesem Tag keine Dosen.",
+    "takenShare": "der Dosen genommen",
+    "bestStreak": "Beste Serie",
+    "streakDays_one": "{{count}} voller Tag",
+    "streakDays_other": "{{count}} volle Tage am Stück",
+    "mostMissed": "Am häufigsten verpasst",
+    "weekTab": "Woche",
+    "monthTab": "Monat",
+    "periodLabel": "Verlauf anzeigen nach",
+    "noStreak": "Noch keine"
   },
   "settings": {
     "title": "Einstellungen",
