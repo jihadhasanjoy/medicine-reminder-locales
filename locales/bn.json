@@ -315,7 +315,8 @@
     "outCount": "এখন কয়টি আছে",
     "outSave": "সংখ্যা সেভ করে খাওয়া হয়েছে দিন",
     "takeAnyway": "তবুও খাওয়া হয়েছে",
-    "outTooFew": "কমপক্ষে {{amount}} লিখুন।"
+    "outTooFew": "কমপক্ষে {{amount}} লিখুন।",
+    "takeAll": "সব খাওয়া হয়েছে"
   },
   "medicine": {
     "addTitle": "ওষুধ যোগ করুন",

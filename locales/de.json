@@ -315,7 +315,8 @@
     "outCount": "Wie viele du jetzt hast",
     "outSave": "Anzahl speichern und als genommen markieren",
     "takeAnyway": "Trotzdem genommen",
-    "outTooFew": "Mindestens {{amount}} eingeben."
+    "outTooFew": "Mindestens {{amount}} eingeben.",
+    "takeAll": "Alle genommen"
   },
   "medicine": {
     "addTitle": "Medikament hinzufügen",

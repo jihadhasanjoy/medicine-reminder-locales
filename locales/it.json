@@ -315,7 +315,8 @@
     "outCount": "Quanti ne hai ora",
     "outSave": "Salva il conteggio e segna come presa",
     "takeAnyway": "Presa comunque",
-    "outTooFew": "Inserisci almeno {{amount}}."
+    "outTooFew": "Inserisci almeno {{amount}}.",
+    "takeAll": "Prese tutte"
   },
   "medicine": {
     "addTitle": "Aggiungi medicina",

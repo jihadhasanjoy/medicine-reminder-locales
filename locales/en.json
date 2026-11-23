@@ -315,7 +315,8 @@
     "outCount": "How many you have now",
     "outSave": "Save count and mark taken",
     "takeAnyway": "Take anyway",
-    "outTooFew": "Enter at least {{amount}}."
+    "outTooFew": "Enter at least {{amount}}.",
+    "takeAll": "Take all"
   },
   "medicine": {
     "addTitle": "Add medicine",

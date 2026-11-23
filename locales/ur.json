@@ -315,7 +315,8 @@
     "outCount": "ابھی کتنی ہیں",
     "outSave": "گنتی محفوظ کریں اور لی گئی نشان لگائیں",
     "takeAnyway": "پھر بھی لی",
-    "outTooFew": "کم از کم {{amount}} لکھیں۔"
+    "outTooFew": "کم از کم {{amount}} لکھیں۔",
+    "takeAll": "سب لی"
   },
   "medicine": {
     "addTitle": "دوا شامل کریں",
