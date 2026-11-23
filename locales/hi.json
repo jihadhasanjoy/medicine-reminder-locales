@@ -375,7 +375,10 @@
     "deleteTitle": "{{name}} हटाएँ?",
     "deleteBody": "इसे लेने वाले सभी के लिए हटेगी, रिमाइंडर और इतिहास के साथ।",
     "saveFor_one": "{{count}} व्यक्ति के लिए सेव करें",
-    "saveFor_other": "{{count}} लोगों के लिए सेव करें"
+    "saveFor_other": "{{count}} लोगों के लिए सेव करें",
+    "timesPerDay_one": "दिन में एक बार",
+    "timesPerDay_other": "दिन में {{count}} बार",
+    "nextAt": "अगली {{time}}"
   },
   "members": {
     "title": "परिवार",

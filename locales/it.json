@@ -375,7 +375,10 @@
     "deleteTitle": "Eliminare {{name}}?",
     "deleteBody": "Viene rimossa per tutti quelli che la prendono, con promemoria e cronologia.",
     "saveFor_one": "Salva per {{count}} persona",
-    "saveFor_other": "Salva per {{count}} persone"
+    "saveFor_other": "Salva per {{count}} persone",
+    "timesPerDay_one": "Una volta al giorno",
+    "timesPerDay_other": "{{count}} volte al giorno",
+    "nextAt": "Prossima {{time}}"
   },
   "members": {
     "title": "Famiglia",

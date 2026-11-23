@@ -375,7 +375,10 @@
     "deleteTitle": "Delete {{name}}?",
     "deleteBody": "It's removed for everyone who takes it, with their reminders and history.",
     "saveFor_one": "Save for {{count}} person",
-    "saveFor_other": "Save for {{count}} people"
+    "saveFor_other": "Save for {{count}} people",
+    "timesPerDay_one": "Once a day",
+    "timesPerDay_other": "{{count}} times a day",
+    "nextAt": "Next {{time}}"
   },
   "members": {
     "title": "Family",

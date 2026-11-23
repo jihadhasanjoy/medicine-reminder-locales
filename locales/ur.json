@@ -375,7 +375,10 @@
     "deleteTitle": "{{name}} حذف کریں؟",
     "deleteBody": "اسے لینے والے سب کے لیے ہٹ جائے گی، یاد دہانیوں اور تاریخ سمیت۔",
     "saveFor_one": "{{count}} شخص کے لیے محفوظ کریں",
-    "saveFor_other": "{{count}} لوگوں کے لیے محفوظ کریں"
+    "saveFor_other": "{{count}} لوگوں کے لیے محفوظ کریں",
+    "timesPerDay_one": "دن میں ایک بار",
+    "timesPerDay_other": "دن میں {{count}} بار",
+    "nextAt": "اگلی {{time}}"
   },
   "members": {
     "title": "خاندان",

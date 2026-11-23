@@ -375,7 +375,10 @@
     "deleteTitle": "{{name}} মুছবেন?",
     "deleteBody": "যারা খান সবার জন্য মুছে যাবে, রিমাইন্ডার ও ইতিহাসসহ।",
     "saveFor_one": "{{count}} জনের জন্য সেভ করুন",
-    "saveFor_other": "{{count}} জনের জন্য সেভ করুন"
+    "saveFor_other": "{{count}} জনের জন্য সেভ করুন",
+    "timesPerDay_one": "দিনে একবার",
+    "timesPerDay_other": "দিনে {{count}} বার",
+    "nextAt": "পরের ডোজ {{time}}"
   },
   "members": {
     "title": "পরিবার",

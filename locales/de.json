@@ -375,7 +375,10 @@
     "deleteTitle": "{{name}} löschen?",
     "deleteBody": "Es wird für alle entfernt, die es nehmen, mit Erinnerungen und Verlauf.",
     "saveFor_one": "Für {{count}} Person speichern",
-    "saveFor_other": "Für {{count}} Personen speichern"
+    "saveFor_other": "Für {{count}} Personen speichern",
+    "timesPerDay_one": "Einmal täglich",
+    "timesPerDay_other": "{{count}}-mal täglich",
+    "nextAt": "Nächste {{time}}"
   },
   "members": {
     "title": "Familie",
