@@ -18,7 +18,8 @@
     "history": "Verlauf",
     "settings": "Einstellungen",
     "today": "Heute",
-    "medicines": "Medikamente"
+    "medicines": "Medikamente",
+    "insights": "Wissen"
   },
   "welcome": {
     "title": "Keine Dosis mehr vergessen",
@@ -444,5 +445,16 @@
     "removeBody": "Ihre Erinnerungen und ihr Verlauf dazu werden gelöscht. Das Medikament bleibt in deiner Liste.",
     "pickSomeone": "Wähle, wer es nimmt.",
     "everyoneHasIt": "Alle nehmen dieses Medikament schon."
+  },
+  "insights": {
+    "title": "Medikamenten-Ratgeber",
+    "emptyTitle": "Keine Beiträge gefunden",
+    "emptyBody": "Neue Tipps zur richtigen Einnahme von Medikamenten erscheinen hier. Zum erneuten Prüfen nach unten ziehen.",
+    "more": "Mehr zum Lesen",
+    "readMinutes": "{{count}} Min. Lesezeit",
+    "offline": "Geschichten konnten nicht geladen werden. Prüfe deine Verbindung.",
+    "source": "Quelle: {{label}}",
+    "disclaimer": "Allgemeine Gesundheitsinformationen, keine ärztliche Beratung. Folge immer dem Rat deiner Ärztin, deines Arztes oder deiner Apotheke.",
+    "notFound": "Diese Geschichte ist nicht mehr verfügbar."
   }
 }

@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 1,
+  "stories": [
+    {
+      "id": "on-time",
+      "category": "Grundlagen",
+      "title": "Warum es wichtig ist, Medikamente pünktlich zu nehmen",
+      "summary": "Ein Medikament wirkt am besten, wenn sein Spiegel in deinem Körper gleichmäßig bleibt. Darum zählt die Uhrzeit.",
+      "image": "stories/images/on-time.webp",
+      "animation": "stories/animations/on-time.json",
+      "readMinutes": 2,
+      "featured": true,
+      "body": [
+        { "type": "paragraph", "text": "Nachdem du ein Medikament genommen hast, steigt sein Spiegel im Blut und sinkt dann langsam wieder, während dein Körper es verbraucht. Die nächste Dosis ist so geplant, dass sie ihn wieder auffüllt, bevor er zu tief fällt. Wenn du deine Dosen zu festen Zeiten nimmst, bleibt der Spiegel gleichmäßig und das Medikament wirkt den ganzen Tag und die ganze Nacht." },
+        { "type": "heading", "text": "Was passieren kann, wenn die Zeiten verrutschen" },
+        { "type": "list", "items": [
+          "Dosen zu spät genommen: Der Spiegel sinkt und das Medikament wirkt vielleicht eine Weile nicht, z. B. kommen Schmerzen oder hoher Blutdruck zurück.",
+          "Dosen zu kurz hintereinander genommen: Der Spiegel kann höher steigen als vorgesehen und mehr Nebenwirkungen verursachen.",
+          "Bei Antibiotika geben Lücken den Keimen die Chance, sich zu erholen und unempfindlich gegen das Medikament zu werden."
+        ] },
+        { "type": "ad" },
+        { "type": "heading", "text": "Was „zweimal täglich“ wirklich bedeutet" },
+        { "type": "paragraph", "text": "Zweimal täglich heißt meist etwa alle 12 Stunden, z. B. um 8 Uhr morgens und 20 Uhr abends. Dreimal täglich ist ungefähr alle 8 Stunden, solange du wach bist. Wenn es auf der Packung nicht klar steht, frag in deiner Apotheke, welche Zeiten zu dir passen." },
+        { "type": "tip", "text": "Stell jede Erinnerung auf die Zeit, zu der du die Dosis wirklich nehmen kannst, z. B. zum Frühstück, nicht wenn du noch auf dem Weg zur Arbeit bist. Eine Dosis, die du pünktlich nehmen kannst, ist besser als eine perfekte Uhrzeit, die du ständig verpasst." }
+      ],
+      "source": { "label": "NHS: Medikamente von A bis Z", "url": "https://www.nhs.uk/medicines/" }
+    },
+    {
+      "id": "missed-dose",
+      "category": "Grundlagen",
+      "title": "Dosis vergessen? Was du tun kannst",
+      "summary": "Das passiert jedem. So holst du sie sicher nach – und das eine, was du nie tun solltest.",
+      "image": "stories/images/missed-dose.webp",
+      "animation": "stories/animations/missed-dose.json",
+      "readMinutes": 2,
+      "featured": true,
+      "body": [
+        { "type": "paragraph", "text": "Ab und zu eine Dosis zu vergessen ist normal, und bei den meisten Medikamenten ist es nicht gefährlich. Wichtig ist, wie du sie nachholst." },
+        { "type": "heading", "text": "Die übliche Regel" },
+        { "type": "list", "items": [
+          "Wenn es dir bald danach einfällt, nimm die vergessene Dosis, so schnell du kannst.",
+          "Wenn schon fast die Zeit für die nächste Dosis ist, lass die vergessene aus und mach normal weiter.",
+          "Nimm nie zwei Dosen auf einmal, um eine vergessene auszugleichen."
+        ] },
+        { "type": "tip", "text": "Im Beipackzettel deines Medikaments gibt es einen Abschnitt „Wenn Sie die Einnahme vergessen haben“. Dort steht genau, was du bei diesem Medikament tun sollst." },
+        { "type": "ad" },
+        { "type": "heading", "text": "Medikamente mit eigenen Regeln" },
+        { "type": "paragraph", "text": "Bei manchen Medikamenten ist besondere Vorsicht nötig, wenn eine Dosis fehlt, z. B. bei der Pille, Blutverdünnern, Insulin und Medikamenten gegen Epilepsie. Halte dich hier genau an den Beipackzettel oder ruf sofort deine Apotheke oder deine Ärztin bzw. deinen Arzt an." },
+        { "type": "paragraph", "text": "Wenn du oft Dosen vergisst, sag es deiner Ärztin oder deinem Arzt. Eine andere Uhrzeit, ein Präparat für einmal täglich oder eine feste Erinnerungsroutine kann vieles leichter machen." }
+      ],
+      "source": { "label": "NHS: Medikamente von A bis Z", "url": "https://www.nhs.uk/medicines/" }
+    },
+    {
+      "id": "with-food",
+      "category": "Mahlzeiten",
+      "title": "Vor, zu oder nach dem Essen?",
+      "summary": "Manche Medikamente brauchen einen leeren Magen, andere einen vollen. Was die Hinweise in der Praxis bedeuten.",
+      "image": "stories/images/with-food.webp",
+      "animation": "stories/animations/with-food.json",
+      "readMinutes": 3,
+      "featured": true,
+      "body": [
+        { "type": "paragraph", "text": "Essen verändert, wie manche Medikamente wirken. Es kann verlangsamen, wie schnell sie aufgenommen werden, bei manchen die Aufnahme ganz verhindern oder deinen Magen vor anderen schützen. Deshalb steht auf der Packung oft, wann du sie nehmen sollst." },
+        { "type": "heading", "text": "Was die Hinweise meist bedeuten" },
+        { "type": "list", "items": [
+          "Vor dem Essen oder auf nüchternen Magen: etwa eine Stunde vor einer Mahlzeit oder zwei Stunden danach.",
+          "Zum Essen: während einer Mahlzeit oder direkt danach. Das schützt oft den Magen, z. B. bei Schmerzmitteln wie Ibuprofen.",
+          "Nach dem Essen: innerhalb von etwa einer halben Stunde, nachdem du gegessen hast."
+        ] },
+        { "type": "ad" },
+        { "type": "paragraph", "text": "Auch manche Getränke spielen eine Rolle. Grapefruitsaft verändert die Wirkung einer ganzen Reihe von Medikamenten, und Milch kann verhindern, dass manche Antibiotika aufgenommen werden. Alkohol verträgt sich mit vielen Medikamenten nicht gut." },
+        { "type": "tip", "text": "In dieser App kannst du jedes Medikament auf vor oder nach dem Essen stellen, und die Erinnerung kommt zur richtigen Zeit rund um deine eigenen Essenszeiten (Einstellungen → Essenszeiten)." }
+      ],
+      "source": { "label": "NHS: Medikamente von A bis Z", "url": "https://www.nhs.uk/medicines/" }
+    },
+    { "type": "ad" },
+    {
+      "id": "full-course",
+      "category": "Ärztlicher Rat",
+      "title": "Nimm die Packung zu Ende, auch wenn es dir besser geht",
+      "summary": "Sich besser fühlen heißt nicht immer, dass die Behandlung fertig ist – besonders bei Antibiotika.",
+      "image": "stories/images/full-course.webp",
+      "animation": "stories/animations/full-course.json",
+      "readMinutes": 2,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "Viele hören mit einem Medikament auf, sobald es ihnen besser geht. Doch die Beschwerden lassen oft nach, bevor die Krankheit ganz behandelt ist." },
+        { "type": "heading", "text": "Antibiotika" },
+        { "type": "paragraph", "text": "Nimm Antibiotika genau so, wie deine Ärztin oder dein Arzt es dir gesagt hat, und so lange wie verordnet. Wenn du zu früh aufhörst oder Dosen auslässt, kann die Infektion zurückkommen, und Keime werden leichter resistent. Dann wirken dieselben Antibiotika beim nächsten Mal vielleicht nicht mehr, bei dir oder bei anderen." },
+        { "type": "heading", "text": "Medikamente für die Dauer" },
+        { "type": "paragraph", "text": "Medikamente gegen hohen Blutdruck, Diabetes, Cholesterin oder für die Schilddrüse spürst du meist nicht, deshalb denkt man leicht, man bräuchte sie nicht. Sie wirken still im Hintergrund, und Absetzen kann riskant sein." },
+        { "type": "tip", "text": "Setz ein verordnetes Medikament nie auf eigene Faust ab. Wenn du wegen Nebenwirkungen oder Kosten aufhören möchtest, sprich zuerst mit deiner Ärztin oder deinem Arzt; oft gibt es eine andere Möglichkeit." }
+      ],
+      "source": { "label": "NHS: Antibiotika", "url": "https://www.nhs.uk/conditions/antibiotics/" }
+    },
+    {
+      "id": "routine",
+      "category": "Gewohnheiten",
+      "title": "Eine Medikamenten-Routine, die bleibt",
+      "summary": "Kleine Gewohnheiten, mit denen du fast automatisch an deine Medikamente denkst.",
+      "image": "stories/images/routine.webp",
+      "animation": "stories/animations/routine.json",
+      "readMinutes": 2,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "Am leichtesten merkst du dir eine Dosis, die an etwas gekoppelt ist, das du sowieso jeden Tag machst." },
+        { "type": "list", "items": [
+          "Verknüpf jede Dosis mit einer täglichen Gewohnheit: Frühstück, Zähneputzen oder Schlafengehen.",
+          "Bewahr das Medikament dort auf, wo du es zu dieser Zeit siehst, aber sicher außer Reichweite von Kindern.",
+          "Nutz eine Wochen-Pillenbox, wenn du mehrere Medikamente nimmst: Ein leeres Fach zeigt dir, dass du es genommen hast.",
+          "Beantworte jede Erinnerung mit Genommen oder Auslassen, dann siehst du auf einen Blick, was erledigt ist."
+        ] },
+        { "type": "ad" },
+        { "type": "tip", "text": "Auf Reisen? Pack deine Medikamente ins Handgepäck und nimm sie weiter zu deinen gewohnten Zeiten von zu Hause, bis du dich an die neue Zeitzone gewöhnt hast – außer deine Ärztin oder dein Arzt sagt etwas anderes." }
+      ],
+      "source": { "label": "MedlinePlus: Medikamente zu Hause nehmen, eine Routine aufbauen", "url": "https://medlineplus.gov/ency/patientinstructions/000613.htm" }
+    },
+    {
+      "id": "refill",
+      "category": "Gewohnheiten",
+      "title": "Lass dein Medikament nie ausgehen",
+      "summary": "Wenn es ausgeht, auch nur für ein, zwei Tage, kann das Wochen guter Arbeit zunichtemachen. Plan Nachschub früh.",
+      "image": "stories/images/refill.webp",
+      "animation": "stories/animations/refill.json",
+      "readMinutes": 2,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "Viele Dosen werden einfach deshalb verpasst, weil die Packung leer war. Manche Medikamente sollten nicht plötzlich abgesetzt werden, daher kann eine Lücke echten Schaden anrichten." },
+        { "type": "list", "items": [
+          "Bestell nach, wenn noch etwa eine Woche Vorrat übrig ist, nicht erst am letzten Tag.",
+          "Frag nach Folgerezepten, damit du nicht jedes Mal einen neuen Termin brauchst.",
+          "Prüf vor Urlauben und langen Wochenenden, ob du genug hast.",
+          "Hab ein Foto oder eine Liste deiner Medikamente mit Stärken auf dem Handy, falls du unterwegs welche kaufen musst."
+        ] },
+        { "type": "tip", "text": "Gib die Anzahl deiner Tabletten ein, wenn du hier ein Medikament hinzufügst. Die App zählt mit jeder Dosis herunter, zeigt es unter Fast leer an und erinnert dich rechtzeitig ans Nachkaufen." }
+      ]
+    },
+    {
+      "id": "side-effects",
+      "category": "Sicherheit",
+      "title": "Nebenwirkungen: was normal ist und wann du Hilfe brauchst",
+      "summary": "Die meisten Nebenwirkungen sind mild und gehen vorbei. Einige brauchen sofort Hilfe. So erkennst du den Unterschied.",
+      "image": "stories/images/side-effects.webp",
+      "animation": "stories/animations/side-effects.json",
+      "readMinutes": 3,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "Fast jedes Medikament kann Nebenwirkungen haben. Die meisten sind mild, etwa Magenbeschwerden, Kopfschmerzen oder Müdigkeit, und werden oft nach den ersten Tagen besser, wenn sich dein Körper an das Medikament gewöhnt hat." },
+        { "type": "heading", "text": "Hol sofort Notfallhilfe, wenn du Folgendes bemerkst" },
+        { "type": "list", "items": [
+          "Schwellung von Gesicht, Lippen, Zunge oder Hals",
+          "Atemnot oder Engegefühl in der Brust",
+          "Ausgedehnter Ausschlag, Blasen oder sich ablösende Haut",
+          "Ohnmacht, Herzrasen oder starker Schwindel"
+        ] },
+        { "type": "ad" },
+        { "type": "heading", "text": "Bei anderen Nebenwirkungen" },
+        { "type": "paragraph", "text": "Wenn eine Nebenwirkung dich stört oder nicht weggeht, sprich mit deiner Ärztin, deinem Arzt oder deiner Apotheke. Setz das Medikament nicht einfach ab: Eine niedrigere Dosis, eine andere Tageszeit oder ein anderes Medikament kann das Problem lösen." },
+        { "type": "tip", "text": "Schreib auf, was dir auffällt und wann es angefangen hat. So kann deine Ärztin oder dein Arzt besser herausfinden, ob das Medikament die Ursache ist." }
+      ],
+      "source": { "label": "MedlinePlus: Arzneimittelreaktionen", "url": "https://medlineplus.gov/drugreactions.html" }
+    },
+    { "type": "ad" },
+    {
+      "id": "mixing",
+      "category": "Sicherheit",
+      "title": "Medikamente, Nahrungsergänzung und Pflanzliches kombinieren",
+      "summary": "Medikamente können sich gegenseitig beeinflussen. Warum deine Ärztin oder dein Arzt alles wissen sollte, was du nimmst.",
+      "image": "stories/images/mixing.webp",
+      "animation": "stories/animations/mixing.json",
+      "readMinutes": 2,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "Wenn du mehr als ein Medikament nimmst, können sie gegenseitig ihre Wirkung verändern: Eines wird vielleicht schwächer oder stärker als vorgesehen. Das gilt auch für Vitamine, pflanzliche Mittel, manche Lebensmittel und Alkohol." },
+        { "type": "list", "items": [
+          "Sag jeder Ärztin, jedem Arzt, jeder Zahnarztpraxis und jeder Apotheke alles, was du nimmst, auch rezeptfreie Medikamente und Nahrungsergänzungsmittel.",
+          "Geh möglichst immer in dieselbe Apotheke, damit sie Wechselwirkungen erkennen kann.",
+          "Schau dir die Packung von Erkältungs- und Schmerzmitteln an: Viele enthalten denselben Wirkstoff, z. B. Paracetamol, und man nimmt leicht zu viel.",
+          "Frag nach, bevor du zu einem neuen Medikament Alkohol trinkst."
+        ] },
+        { "type": "tip", "text": "Dein Tab Medikamente ist eine fertige Liste von allem, was du nimmst, mit Stärken. Zeig sie bei deinem nächsten Termin." }
+      ],
+      "source": { "label": "FDA: Wechselwirkungen von Medikamenten, was du wissen solltest", "url": "https://www.fda.gov/drugs/resources-you-drugs/drug-interactions-what-you-should-know" }
+    },
+    {
+      "id": "ask-doctor",
+      "category": "Ärztlicher Rat",
+      "title": "Fragen zu einem neuen Medikament",
+      "summary": "Ein paar Minuten Fragen in der Praxis oder Apotheke können dir später viele Sorgen ersparen.",
+      "image": "stories/images/ask-doctor.webp",
+      "animation": "stories/animations/ask-doctor.json",
+      "readMinutes": 2,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "Wenn du ein neues Medikament bekommst, darfst du ruhig so lange fragen, bis alles klar ist. Ärztinnen, Ärzte und Apotheken rechnen damit." },
+        { "type": "list", "items": [
+          "Wofür ist es, und woran merke ich, dass es wirkt?",
+          "Wie viel nehme ich, zu welchen Zeiten, und vor oder nach dem Essen?",
+          "Wie lange soll ich es nehmen?",
+          "Was mache ich, wenn ich eine Dosis vergesse?",
+          "Welche Nebenwirkungen sind häufig, und bei welchen soll ich mich melden?",
+          "Verträgt es sich mit meinen anderen Medikamenten, Nahrungsergänzungsmitteln oder Alkohol?",
+          "Kann ich wie gewohnt Auto fahren oder arbeiten, während ich es nehme?"
+        ] },
+        { "type": "tip", "text": "Füg das Medikament hier hinzu, sobald du es bekommst, mit den Zeiten von deiner Ärztin oder deinem Arzt. Dann steht der Plan schon vor der ersten Dosis." }
+      ],
+      "source": { "label": "MedlinePlus: Medikamente nehmen, was du in der Praxis fragen solltest", "url": "https://medlineplus.gov/ency/patientinstructions/000535.htm" }
+    },
+    {
+      "id": "storage",
+      "category": "Sicherheit",
+      "title": "Bewahr deine Medikamente richtig auf",
+      "summary": "Hitze, Feuchtigkeit und neugierige Kinder sind die größten Risiken. Wo Medikamente hingehören und wann sie weg müssen.",
+      "image": "stories/images/storage.webp",
+      "animation": "stories/animations/storage.json",
+      "readMinutes": 2,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "Medikamente können an Wirkung verlieren oder sogar schädlich werden, wenn sie am falschen Ort liegen." },
+        { "type": "list", "items": [
+          "Bewahr sie kühl und trocken auf, ohne Sonnenlicht. Das Bad und die Küche neben dem Herd sind oft zu warm und feucht.",
+          "Lass sie in der Originalpackung mit Etikett und Beipackzettel.",
+          "Bewahr Medikamente hoch und für Kinder unsichtbar auf, am besten abgeschlossen.",
+          "Leg nur das in den Kühlschrank, was laut Packung dorthin gehört, z. B. manche Insuline und Augentropfen."
+        ] },
+        { "type": "heading", "text": "Alte und nicht genutzte Medikamente" },
+        { "type": "paragraph", "text": "Schau ab und zu aufs Verfallsdatum. Bring alte oder nicht genutzte Medikamente zurück in eine Apotheke, statt sie in den Müll oder in die Toilette zu werfen." }
+      ],
+      "source": { "label": "MedlinePlus: Medikamente aufbewahren", "url": "https://medlineplus.gov/ency/patientinstructions/000534.htm" }
+    },
+    {
+      "id": "family",
+      "category": "Familie",
+      "title": "Eltern oder Kindern bei ihren Medikamenten helfen",
+      "summary": "Kümmerst du dich auch um die Medikamente anderer? Tipps, damit alle Dosen stimmen.",
+      "image": "stories/images/family.webp",
+      "animation": "stories/animations/family.json",
+      "readMinutes": 2,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "Zusätzlich zu deinen eigenen auch die Medikamente von Eltern, Kindern oder Partner im Kopf zu behalten, ist eine Menge. Ein gemeinsamer Plan hilft." },
+        { "type": "list", "items": [
+          "Halte die Medikamente jeder Person getrennt, am besten in einer eigenen Schachtel oder Pillenbox.",
+          "Nimm bei Kindern immer den Messlöffel oder die Spritze, die beim Medikament dabei ist, nie einen Küchenlöffel.",
+          "Ältere Menschen nehmen oft mehrere Medikamente: Bitte die Apotheke einmal im Jahr um eine Medikationsprüfung.",
+          "Notier, wer welche Dosis gegeben hat, damit niemand sie doppelt gibt."
+        ] },
+        { "type": "tip", "text": "Füg Familienmitglieder unter Einstellungen → Familie hinzu und gib jedem seine eigenen Medikamente. Heute zeigt die Dosen von allen, jeweils mit eigenem Avatar." }
+      ],
+      "source": { "label": "MedlinePlus: Mehrere Medikamente sicher nehmen", "url": "https://medlineplus.gov/ency/patientinstructions/000883.htm" }
+    }
+  ]
+}

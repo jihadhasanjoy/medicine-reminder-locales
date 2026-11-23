@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 1,
+  "stories": [
+    {
+      "id": "on-time",
+      "category": "Basics",
+      "title": "Why taking medicine on time matters",
+      "summary": "A medicine works best when it stays at a steady level in your body. Here's why the clock matters.",
+      "image": "stories/images/on-time.webp",
+      "animation": "stories/animations/on-time.json",
+      "readMinutes": 2,
+      "featured": true,
+      "body": [
+        { "type": "paragraph", "text": "After you take a medicine, its level in your blood rises, then slowly falls as your body uses it up. The next dose is timed to top it up before it drops too low. Taking doses at regular times keeps that level steady, so the medicine keeps working all day and night." },
+        { "type": "heading", "text": "What can happen when timing slips" },
+        { "type": "list", "items": [
+          "Doses taken too late: the level drops and the medicine may stop working for a while, e.g. pain or blood pressure comes back.",
+          "Doses taken too close together: the level can rise higher than intended and cause more side effects.",
+          "With antibiotics, gaps give germs a chance to recover and learn to resist the medicine."
+        ] },
+        { "type": "ad" },
+        { "type": "heading", "text": "What \"twice a day\" really means" },
+        { "type": "paragraph", "text": "Twice a day usually means about every 12 hours, e.g. 8 AM and 8 PM. Three times a day is roughly every 8 hours while you're awake. If the label isn't clear, ask your pharmacist which times suit you." },
+        { "type": "tip", "text": "Set each reminder at the time you can really take it, e.g. with breakfast, not when you're still on the way to work. A dose you can take on time beats a perfect time you keep missing." }
+      ],
+      "source": { "label": "NHS: Medicines A to Z", "url": "https://www.nhs.uk/medicines/" }
+    },
+    {
+      "id": "missed-dose",
+      "category": "Basics",
+      "title": "Missed a dose? What to do",
+      "summary": "It happens to everyone. The safe way to catch up, and the one thing you should never do.",
+      "image": "stories/images/missed-dose.webp",
+      "animation": "stories/animations/missed-dose.json",
+      "readMinutes": 2,
+      "featured": true,
+      "body": [
+        { "type": "paragraph", "text": "Forgetting a dose now and then is common, and for most medicines it's not dangerous. What matters is how you catch up." },
+        { "type": "heading", "text": "The usual rule" },
+        { "type": "list", "items": [
+          "If you remember soon after, take the missed dose as soon as you can.",
+          "If it's nearly time for your next dose, skip the missed one and carry on as normal.",
+          "Never take two doses at once to make up for a forgotten one."
+        ] },
+        { "type": "tip", "text": "Your medicine's leaflet has a section called \"If you forget to take it\". It tells you exactly what to do for that medicine." },
+        { "type": "ad" },
+        { "type": "heading", "text": "Medicines with their own rules" },
+        { "type": "paragraph", "text": "Some medicines need special care when a dose is missed, e.g. contraceptive pills, blood thinners, insulin and medicines for epilepsy. For these, follow the leaflet closely or call your pharmacist or doctor straight away." },
+        { "type": "paragraph", "text": "If you miss doses often, tell your doctor. A different time, a once-a-day version or a reminder routine can make it much easier." }
+      ],
+      "source": { "label": "NHS: Medicines A to Z", "url": "https://www.nhs.uk/medicines/" }
+    },
+    {
+      "id": "with-food",
+      "category": "Meals",
+      "title": "Before food, with food or after?",
+      "summary": "Some medicines need an empty stomach, others a full one. What the labels mean in practice.",
+      "image": "stories/images/with-food.webp",
+      "animation": "stories/animations/with-food.json",
+      "readMinutes": 3,
+      "featured": true,
+      "body": [
+        { "type": "paragraph", "text": "Food changes how some medicines work. It can slow down how fast they're absorbed, stop some from being absorbed at all, or protect your stomach from others. That's why labels often say when to take them." },
+        { "type": "heading", "text": "What the labels usually mean" },
+        { "type": "list", "items": [
+          "Before food or on an empty stomach: about an hour before a meal, or two hours after one.",
+          "With food: during a meal or straight after it. This often protects the stomach, e.g. with painkillers like ibuprofen.",
+          "After food: within about half an hour after you've eaten."
+        ] },
+        { "type": "ad" },
+        { "type": "paragraph", "text": "Some drinks matter too. Grapefruit juice changes how a number of medicines work, and milk can stop some antibiotics from being absorbed. Alcohol doesn't mix well with many medicines." },
+        { "type": "tip", "text": "In this app you can set each medicine before or after a meal, and it's reminded at the right time around your own meal times (Settings → Meal times)." }
+      ],
+      "source": { "label": "NHS: Medicines A to Z", "url": "https://www.nhs.uk/medicines/" }
+    },
+    { "type": "ad" },
+    {
+      "id": "full-course",
+      "category": "Doctor's advice",
+      "title": "Finish the course, even when you feel better",
+      "summary": "Feeling better doesn't always mean the job is done, especially with antibiotics.",
+      "image": "stories/images/full-course.webp",
+      "animation": "stories/animations/full-course.json",
+      "readMinutes": 2,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "Many people stop a medicine as soon as they feel better. But symptoms often fade before the illness is fully treated." },
+        { "type": "heading", "text": "Antibiotics" },
+        { "type": "paragraph", "text": "Take antibiotics exactly as your doctor told you, for as long as they told you. Stopping early or skipping doses can let the infection come back and helps germs become resistant, so the same antibiotics may not work next time, for you or for others." },
+        { "type": "heading", "text": "Long-term medicines" },
+        { "type": "paragraph", "text": "Medicines for blood pressure, diabetes, cholesterol or thyroid usually don't make you feel different, so it's easy to think they're not needed. They work quietly in the background, and stopping can be risky." },
+        { "type": "tip", "text": "Never stop a prescribed medicine on your own. If you want to stop because of side effects or cost, talk to your doctor first; there's often another option." }
+      ],
+      "source": { "label": "NHS: Antibiotics", "url": "https://www.nhs.uk/conditions/antibiotics/" }
+    },
+    {
+      "id": "routine",
+      "category": "Habits",
+      "title": "Build a medicine routine that sticks",
+      "summary": "Small habits that make remembering your medicines almost automatic.",
+      "image": "stories/images/routine.webp",
+      "animation": "stories/animations/routine.json",
+      "readMinutes": 2,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "The easiest dose to remember is the one tied to something you already do every day." },
+        { "type": "list", "items": [
+          "Link each dose to a daily habit: breakfast, brushing your teeth, or going to bed.",
+          "Keep the medicine where you'll see it at that time, but safely out of children's reach.",
+          "Use a weekly pill organiser if you take several medicines: an empty slot shows you've taken it.",
+          "Answer each reminder with Taken or Skip, so you can see at a glance what's done."
+        ] },
+        { "type": "ad" },
+        { "type": "tip", "text": "Travelling? Keep your medicines in your hand luggage, and keep taking them at your usual home times until you've settled into the new time zone, unless your doctor says otherwise." }
+      ],
+      "source": { "label": "MedlinePlus: Taking medicine at home, create a routine", "url": "https://medlineplus.gov/ency/patientinstructions/000613.htm" }
+    },
+    {
+      "id": "refill",
+      "category": "Habits",
+      "title": "Never run out of your medicine",
+      "summary": "Running out, even for a day or two, can undo weeks of good work. Plan refills early.",
+      "image": "stories/images/refill.webp",
+      "animation": "stories/animations/refill.json",
+      "readMinutes": 2,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "Many missed doses happen simply because the pack ran out. Some medicines shouldn't be stopped suddenly, so a gap can do real harm." },
+        { "type": "list", "items": [
+          "Reorder when about a week's supply is left, not on the last day.",
+          "Ask about repeat prescriptions so you don't need a new appointment each time.",
+          "Before holidays and long weekends, check you have enough to last.",
+          "Keep a photo or list of your medicines and strengths on your phone, in case you need to buy more away from home."
+        ] },
+        { "type": "tip", "text": "Enter the number of pills you have when you add a medicine here. The app counts down with each dose, shows it under Running low and reminds you to refill in time." }
+      ]
+    },
+    {
+      "id": "side-effects",
+      "category": "Safety",
+      "title": "Side effects: what's normal and when to get help",
+      "summary": "Most side effects are mild and fade. A few need help straight away. How to tell the difference.",
+      "image": "stories/images/side-effects.webp",
+      "animation": "stories/animations/side-effects.json",
+      "readMinutes": 3,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "Nearly every medicine can cause side effects. Most are mild, like an upset stomach, a headache or feeling sleepy, and often get better after the first days as your body gets used to the medicine." },
+        { "type": "heading", "text": "Get emergency help at once if you notice" },
+        { "type": "list", "items": [
+          "Swelling of the face, lips, tongue or throat",
+          "Trouble breathing or a tight chest",
+          "A widespread rash, blisters or peeling skin",
+          "Fainting, a racing heart or severe dizziness"
+        ] },
+        { "type": "ad" },
+        { "type": "heading", "text": "For other side effects" },
+        { "type": "paragraph", "text": "If a side effect bothers you or doesn't go away, talk to your doctor or pharmacist. Don't just stop the medicine: a lower dose, a different time of day or another medicine may solve it." },
+        { "type": "tip", "text": "Write down what you notice and when it started. It helps your doctor work out whether the medicine is the cause." }
+      ],
+      "source": { "label": "MedlinePlus: Drug Reactions", "url": "https://medlineplus.gov/drugreactions.html" }
+    },
+    { "type": "ad" },
+    {
+      "id": "mixing",
+      "category": "Safety",
+      "title": "Mixing medicines, supplements and herbal remedies",
+      "summary": "Medicines can affect each other. Why your doctor needs to know everything you take.",
+      "image": "stories/images/mixing.webp",
+      "animation": "stories/animations/mixing.json",
+      "readMinutes": 2,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "When you take more than one medicine, they can change how each other works: one might become weaker, or stronger than intended. The same goes for vitamins, herbal remedies, some foods and alcohol." },
+        { "type": "list", "items": [
+          "Tell every doctor, dentist and pharmacist about all you take, including over-the-counter medicines and supplements.",
+          "Use one pharmacy where you can, so they can spot interactions.",
+          "Check the label of cold and pain remedies: many contain the same ingredient, e.g. paracetamol, and it's easy to take too much.",
+          "Ask before drinking alcohol with a new medicine."
+        ] },
+        { "type": "tip", "text": "Your Medicines tab is a ready list of everything you take, with strengths. Show it at your next appointment." }
+      ],
+      "source": { "label": "FDA: Drug interactions, what you should know", "url": "https://www.fda.gov/drugs/resources-you-drugs/drug-interactions-what-you-should-know" }
+    },
+    {
+      "id": "ask-doctor",
+      "category": "Doctor's advice",
+      "title": "Questions to ask about a new medicine",
+      "summary": "A few minutes of questions at the doctor's or pharmacy can save a lot of worry later.",
+      "image": "stories/images/ask-doctor.webp",
+      "animation": "stories/animations/ask-doctor.json",
+      "readMinutes": 2,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "When you get a new medicine, it's fine to ask questions until everything is clear. Doctors and pharmacists expect it." },
+        { "type": "list", "items": [
+          "What is it for, and how will I know it's working?",
+          "How much do I take, at what times, and before or after food?",
+          "How long should I take it for?",
+          "What should I do if I miss a dose?",
+          "Which side effects are common, and which mean I should call you?",
+          "Does it mix safely with my other medicines, supplements or alcohol?",
+          "Can I drive or work as usual while taking it?"
+        ] },
+        { "type": "tip", "text": "Add the medicine here as soon as you get it, with the times your doctor gave you, so the plan is set before the first dose." }
+      ],
+      "source": { "label": "MedlinePlus: Taking medicines, what to ask your provider", "url": "https://medlineplus.gov/ency/patientinstructions/000535.htm" }
+    },
+    {
+      "id": "storage",
+      "category": "Safety",
+      "title": "Store your medicines the right way",
+      "summary": "Heat, damp and curious children are the biggest risks. Where to keep medicines, and when to throw them away.",
+      "image": "stories/images/storage.webp",
+      "animation": "stories/animations/storage.json",
+      "readMinutes": 2,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "Medicines can lose strength, or even become harmful, when they're kept in the wrong place." },
+        { "type": "list", "items": [
+          "Keep them in a cool, dry place, away from sunlight. The bathroom and the kitchen next to the stove are often too warm and damp.",
+          "Keep them in their original pack with the label and leaflet.",
+          "Store medicines up high and out of sight of children, ideally locked.",
+          "Only keep in the fridge what the label says needs the fridge, e.g. some insulins and eye drops."
+        ] },
+        { "type": "heading", "text": "Old and unused medicines" },
+        { "type": "paragraph", "text": "Check expiry dates now and then. Take old or unused medicines back to a pharmacy rather than throwing them in the bin or down the toilet." }
+      ],
+      "source": { "label": "MedlinePlus: Storing your medicines", "url": "https://medlineplus.gov/ency/patientinstructions/000534.htm" }
+    },
+    {
+      "id": "family",
+      "category": "Family",
+      "title": "Helping a parent or child with their medicines",
+      "summary": "Looking after someone else's medicines too? Tips to keep everyone's doses straight.",
+      "image": "stories/images/family.webp",
+      "animation": "stories/animations/family.json",
+      "readMinutes": 2,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "Managing medicines for parents, children or a partner on top of your own is a lot to keep in your head. A shared plan helps." },
+        { "type": "list", "items": [
+          "Keep each person's medicines separate, ideally in their own box or organiser.",
+          "For children, always use the measuring spoon or syringe that comes with the medicine, never a kitchen spoon.",
+          "Older people often take several medicines: ask the pharmacist for a medicines review once a year.",
+          "Note down who gave which dose, so nobody gives it twice."
+        ] },
+        { "type": "tip", "text": "Add family members in Settings → Family, then give each one their own medicines. Today shows everyone's doses, each with their own avatar." }
+      ],
+      "source": { "label": "MedlinePlus: Taking multiple medicines safely", "url": "https://medlineplus.gov/ency/patientinstructions/000883.htm" }
+    }
+  ]
+}

@@ -1,41 +1,100 @@
 {
   "schemaVersion": 1,
-  "version": 11,
-  "updatedAt": "2026-11-23T10:36:46.926Z",
+  "version": 13,
+  "updatedAt": "2026-11-23T15:36:46.355Z",
   "languages": "languages.json",
   "languagesSha256": "82edf76ab8a9aff265287bb83a6afce3c90d4c2a48c2b1483ea9f1740ccfc6b2",
   "locales": {
     "en": {
       "file": "locales/en.json",
-      "sha256": "7ffc6337d010b77c4be04768fa2c134dc6f6834975a01ae7eec3bb061d2957de",
-      "keys": 378
+      "sha256": "2ede68866cf2792270f59b609a5e1e922fa2fa018cd7d6493174d524a5039c1b",
+      "keys": 388
     },
     "bn": {
       "file": "locales/bn.json",
-      "sha256": "89247da56ec32ca4a6d7b7042f8561bdba4d7f09a26e54811155f5e8c531108d",
-      "keys": 378
+      "sha256": "54c3dc2361d0a0b7adf3153e56bea63deed1449509097a5aeb7458aec8411125",
+      "keys": 388
     },
     "hi": {
       "file": "locales/hi.json",
-      "sha256": "e81b521a38d3fa9c59f35fc6a83c8074895e61cedee8b6928e11c69e833b4ef1",
-      "keys": 378
+      "sha256": "ffdf342ced401fe9d99c9752f0ad04f7386c955a52ad6b7fe8e4eb8ba04f0fac",
+      "keys": 388
     },
     "ur": {
       "file": "locales/ur.json",
-      "sha256": "cf253117673a92a51786dc6fc4223c19924ff9ba0d2e3b162d4987cadf9ff8e0",
-      "keys": 378
+      "sha256": "d248f7baa8deaa372869b7582994fe696b89f4fa84298e6499ea733528ba72d9",
+      "keys": 388
     },
     "de": {
       "file": "locales/de.json",
-      "sha256": "65275aa9a8649e89b1d8ecb7365601bee12bb12c133cdea00f2d5cc0478bc4ce",
-      "keys": 378
+      "sha256": "916c3d302f7e25768d6507333973310fd0a40d7ca9d915a774e6f01f276f7409",
+      "keys": 388
     },
     "it": {
       "file": "locales/it.json",
-      "sha256": "cf2eaf0072dba73a63008b308b7a7b88fd0860521f26f8dcbf40d6a016de220c",
-      "keys": 378
+      "sha256": "ea2c7937e668ea2fe7b1be5da6602400c2102660c5641a60c841a71e84ddf5f7",
+      "keys": 388
     }
   },
-  "stories": {},
-  "animations": {}
+  "stories": {
+    "bn": {
+      "file": "stories/bn.json",
+      "sha256": "b3ec68cc76842d394ca6620ba965263fe830094ddd0e02a93f19c03e13268d50"
+    },
+    "de": {
+      "file": "stories/de.json",
+      "sha256": "83ef639987e9b2ef00bfaf15669bf15d935451647cd65238d428707188d32341"
+    },
+    "en": {
+      "file": "stories/en.json",
+      "sha256": "1ac642c53ab33a6bb10d77830acfce192c080170b414ceb9590e04c5b56475b0"
+    },
+    "hi": {
+      "file": "stories/hi.json",
+      "sha256": "660eeac0b0c582f87d120713897da7170efd03f64c2fa3878cc877884292faed"
+    },
+    "it": {
+      "file": "stories/it.json",
+      "sha256": "d57155eb6cefeeedb53b17ef2e88e24b08693af70eacc2f1c27ecb9b47255692"
+    },
+    "ur": {
+      "file": "stories/ur.json",
+      "sha256": "4b3a62701f6702db562446d3ed105745337237ec49a487baa2ef36c61e8e3c25"
+    }
+  },
+  "animations": {
+    "stories/animations/ask-doctor.json": {
+      "sha256": "27b5adbce72a863e6d11e150000ce0c5ac79fa423399fc0c594e4f14e8e8882f"
+    },
+    "stories/animations/family.json": {
+      "sha256": "c207ae5b1db9b8337dcdf9844ff12e5c5511a54b731cea00b3e7e20b28264e47"
+    },
+    "stories/animations/full-course.json": {
+      "sha256": "80272a190c2bce2d5eb5ffbe61bc3dee030fc9225741534b97bc59f0cdce2dc5"
+    },
+    "stories/animations/missed-dose.json": {
+      "sha256": "85a62cddf16aa75bae45a269eb760c8491170dc4aebd673244ad87d968cf14b1"
+    },
+    "stories/animations/mixing.json": {
+      "sha256": "78ba7895490f718d41bcdd083c8d658da6463b142512d3973ab5e3c41592450c"
+    },
+    "stories/animations/on-time.json": {
+      "sha256": "42d2e092c0765a9c549228e039825653018e8bd7aafbf4038c12f453f5900bb3"
+    },
+    "stories/animations/refill.json": {
+      "sha256": "748cbd288ca10eea955401df018bcee527e0d55a5c73346465ec61d246039847"
+    },
+    "stories/animations/routine.json": {
+      "sha256": "935f0a325f1da09c127cf0387fdf0fb164962080ae6cd74cec6411537fc13141"
+    },
+    "stories/animations/side-effects.json": {
+      "sha256": "e91d09fb0bf09dd3e7b78977cfbf1d12e218d17d43a178f4923cdc2dca32fd07"
+    },
+    "stories/animations/storage.json": {
+      "sha256": "68811133996a116dcf8321e6a825ae3e371ac58f0b9d986875dae18d36df2bf1"
+    },
+    "stories/animations/with-food.json": {
+      "sha256": "e52b759b3f70a5ce8a89b1746014b6de80413a1200aa6b60e842a473b69b48e3"
+    }
+  }
 }

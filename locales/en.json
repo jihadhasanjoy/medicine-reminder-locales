@@ -18,7 +18,8 @@
     "history": "History",
     "settings": "Settings",
     "today": "Today",
-    "medicines": "Medicines"
+    "medicines": "Medicines",
+    "insights": "Insights"
   },
   "welcome": {
     "title": "Never miss a dose",
@@ -444,5 +445,16 @@
     "removeBody": "Their reminders and history for it are removed. The medicine stays in your list.",
     "pickSomeone": "Pick who takes it.",
     "everyoneHasIt": "Everyone already takes this medicine."
+  },
+  "insights": {
+    "title": "Medicine Guide",
+    "emptyTitle": "No insights found",
+    "emptyBody": "New tips about taking medicines well will show up here. Pull down to check again.",
+    "more": "More to read",
+    "readMinutes": "{{count}} min read",
+    "offline": "Couldn't load stories. Check your connection.",
+    "source": "Source: {{label}}",
+    "disclaimer": "General health information, not medical advice. Always follow your doctor's or pharmacist's advice.",
+    "notFound": "This story is no longer available."
   }
 }

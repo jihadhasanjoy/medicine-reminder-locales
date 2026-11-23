@@ -18,7 +18,8 @@
     "history": "Cronologia",
     "settings": "Impostazioni",
     "today": "Oggi",
-    "medicines": "Medicine"
+    "medicines": "Medicine",
+    "insights": "Consigli"
   },
   "welcome": {
     "title": "Mai più una dose dimenticata",
@@ -444,5 +445,16 @@
     "removeBody": "I suoi promemoria e la cronologia vengono rimossi. La medicina resta nella tua lista.",
     "pickSomeone": "Scegli chi lo prende.",
     "everyoneHasIt": "Tutti prendono già questa medicina."
+  },
+  "insights": {
+    "title": "Guida ai farmaci",
+    "emptyTitle": "Nessun approfondimento trovato",
+    "emptyBody": "Qui appariranno nuovi consigli per prendere bene i farmaci. Trascina verso il basso per controllare di nuovo.",
+    "more": "Altro da leggere",
+    "readMinutes": "{{count}} min di lettura",
+    "offline": "Impossibile caricare le storie. Controlla la connessione.",
+    "source": "Fonte: {{label}}",
+    "disclaimer": "Informazioni generali sulla salute, non consigli medici. Segui sempre le indicazioni del medico o del farmacista.",
+    "notFound": "Questa storia non è più disponibile."
   }
 }

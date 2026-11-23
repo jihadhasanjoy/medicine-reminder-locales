@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 1,
+  "stories": [
+    {
+      "id": "on-time",
+      "category": "Le basi",
+      "title": "Perché è importante prendere le medicine in orario",
+      "summary": "Una medicina funziona meglio quando il suo livello nel corpo resta costante. Ecco perché l'orario conta.",
+      "image": "stories/images/on-time.webp",
+      "animation": "stories/animations/on-time.json",
+      "readMinutes": 2,
+      "featured": true,
+      "body": [
+        { "type": "paragraph", "text": "Dopo che prendi una medicina, il suo livello nel sangue sale e poi scende piano piano, man mano che il corpo la consuma. La dose successiva serve a rialzarlo prima che scenda troppo. Prendere le dosi a orari regolari mantiene il livello costante, così la medicina continua a funzionare giorno e notte." },
+        { "type": "heading", "text": "Cosa può succedere quando gli orari slittano" },
+        { "type": "list", "items": [
+          "Dosi prese troppo tardi: il livello scende e la medicina può smettere di funzionare per un po', per esempio tornano il dolore o la pressione alta.",
+          "Dosi prese troppo ravvicinate: il livello può salire più del previsto e causare più effetti collaterali.",
+          "Con gli antibiotici, le pause danno ai germi la possibilità di riprendersi e diventare resistenti alla medicina."
+        ] },
+        { "type": "ad" },
+        { "type": "heading", "text": "Cosa significa davvero \"due volte al giorno\"" },
+        { "type": "paragraph", "text": "Due volte al giorno di solito vuol dire circa ogni 12 ore, per esempio alle 8 e alle 20. Tre volte al giorno è più o meno ogni 8 ore mentre sei sveglio. Se la confezione non è chiara, chiedi al farmacista quali orari fanno per te." },
+        { "type": "tip", "text": "Imposta ogni promemoria all'ora in cui puoi davvero prendere la medicina, per esempio a colazione, non quando sei ancora per strada verso il lavoro. Una dose che riesci a prendere in orario è meglio di un orario perfetto che salti sempre." }
+      ],
+      "source": { "label": "NHS: Medicine dalla A alla Z", "url": "https://www.nhs.uk/medicines/" }
+    },
+    {
+      "id": "missed-dose",
+      "category": "Le basi",
+      "title": "Hai saltato una dose? Cosa fare",
+      "summary": "Capita a tutti. Il modo sicuro per recuperare, e l'unica cosa da non fare mai.",
+      "image": "stories/images/missed-dose.webp",
+      "animation": "stories/animations/missed-dose.json",
+      "readMinutes": 2,
+      "featured": true,
+      "body": [
+        { "type": "paragraph", "text": "Dimenticare una dose ogni tanto è comune, e per la maggior parte delle medicine non è pericoloso. Quello che conta è come recuperi." },
+        { "type": "heading", "text": "La regola di solito" },
+        { "type": "list", "items": [
+          "Se te ne ricordi poco dopo, prendi la dose dimenticata appena puoi.",
+          "Se è quasi ora della dose successiva, salta quella dimenticata e continua come al solito.",
+          "Non prendere mai due dosi insieme per recuperare quella dimenticata."
+        ] },
+        { "type": "tip", "text": "Il foglietto illustrativo della tua medicina ha una sezione \"Se dimentica di prendere\". Ti dice esattamente cosa fare per quella medicina." },
+        { "type": "ad" },
+        { "type": "heading", "text": "Medicine con regole proprie" },
+        { "type": "paragraph", "text": "Alcune medicine richiedono attenzione speciale quando salti una dose, per esempio la pillola anticoncezionale, gli anticoagulanti, l'insulina e le medicine per l'epilessia. In questi casi segui attentamente il foglietto o chiama subito il farmacista o il medico." },
+        { "type": "paragraph", "text": "Se salti spesso delle dosi, dillo al medico. Un orario diverso, una versione da prendere una volta al giorno o una routine di promemoria possono renderti tutto molto più facile." }
+      ],
+      "source": { "label": "NHS: Medicine dalla A alla Z", "url": "https://www.nhs.uk/medicines/" }
+    },
+    {
+      "id": "with-food",
+      "category": "Pasti",
+      "title": "Prima, durante o dopo i pasti?",
+      "summary": "Alcune medicine vogliono lo stomaco vuoto, altre pieno. Cosa significano in pratica le indicazioni.",
+      "image": "stories/images/with-food.webp",
+      "animation": "stories/animations/with-food.json",
+      "readMinutes": 3,
+      "featured": true,
+      "body": [
+        { "type": "paragraph", "text": "Il cibo cambia il modo in cui agiscono alcune medicine. Può rallentarne l'assorbimento, impedire del tutto che alcune vengano assorbite o proteggere lo stomaco da altre. Per questo sulla confezione spesso c'è scritto quando prenderle." },
+        { "type": "heading", "text": "Cosa significano di solito le indicazioni" },
+        { "type": "list", "items": [
+          "Prima dei pasti o a stomaco vuoto: circa un'ora prima di mangiare, o due ore dopo.",
+          "Durante i pasti: mentre mangi o subito dopo. Spesso protegge lo stomaco, per esempio con antidolorifici come l'ibuprofene.",
+          "Dopo i pasti: entro circa mezz'ora da quando hai mangiato."
+        ] },
+        { "type": "ad" },
+        { "type": "paragraph", "text": "Contano anche alcune bevande. Il succo di pompelmo cambia l'effetto di diverse medicine, e il latte può impedire l'assorbimento di alcuni antibiotici. L'alcol non va d'accordo con molte medicine." },
+        { "type": "tip", "text": "In questa app puoi impostare ogni medicina prima o dopo il pasto, e il promemoria arriva al momento giusto in base ai tuoi orari dei pasti (Impostazioni → Orari dei pasti)." }
+      ],
+      "source": { "label": "NHS: Medicine dalla A alla Z", "url": "https://www.nhs.uk/medicines/" }
+    },
+    { "type": "ad" },
+    {
+      "id": "full-course",
+      "category": "Consigli del medico",
+      "title": "Finisci la terapia, anche quando stai meglio",
+      "summary": "Sentirsi meglio non sempre vuol dire che la cura è finita, soprattutto con gli antibiotici.",
+      "image": "stories/images/full-course.webp",
+      "animation": "stories/animations/full-course.json",
+      "readMinutes": 2,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "Molte persone smettono una medicina appena si sentono meglio. Ma spesso i sintomi spariscono prima che la malattia sia curata del tutto." },
+        { "type": "heading", "text": "Antibiotici" },
+        { "type": "paragraph", "text": "Prendi gli antibiotici esattamente come ti ha detto il medico, e per tutto il tempo indicato. Smettere prima o saltare dosi può far tornare l'infezione e aiuta i germi a diventare resistenti, così gli stessi antibiotici potrebbero non funzionare la prossima volta, per te o per gli altri." },
+        { "type": "heading", "text": "Medicine a lungo termine" },
+        { "type": "paragraph", "text": "Le medicine per la pressione, il diabete, il colesterolo o la tiroide di solito non ti fanno sentire diverso, quindi è facile pensare che non servano. Lavorano in silenzio dietro le quinte, e smettere può essere rischioso." },
+        { "type": "tip", "text": "Non smettere mai da solo una medicina prescritta. Se vuoi smettere per gli effetti collaterali o per il costo, parlane prima con il medico: spesso c'è un'altra possibilità." }
+      ],
+      "source": { "label": "NHS: Antibiotici", "url": "https://www.nhs.uk/conditions/antibiotics/" }
+    },
+    {
+      "id": "routine",
+      "category": "Abitudini",
+      "title": "Crea una routine per le medicine che duri",
+      "summary": "Piccole abitudini che rendono quasi automatico ricordarsi le medicine.",
+      "image": "stories/images/routine.webp",
+      "animation": "stories/animations/routine.json",
+      "readMinutes": 2,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "La dose più facile da ricordare è quella legata a qualcosa che fai già ogni giorno." },
+        { "type": "list", "items": [
+          "Collega ogni dose a un'abitudine quotidiana: la colazione, lavarti i denti o andare a letto.",
+          "Tieni la medicina dove la vedrai in quel momento, ma al sicuro, fuori dalla portata dei bambini.",
+          "Usa un portapillole settimanale se prendi più medicine: uno scomparto vuoto ti dice che l'hai presa.",
+          "Rispondi a ogni promemoria con Presa o Salta, così vedi a colpo d'occhio cosa hai fatto."
+        ] },
+        { "type": "ad" },
+        { "type": "tip", "text": "In viaggio? Tieni le medicine nel bagaglio a mano e continua a prenderle ai soliti orari di casa finché non ti sei abituato al nuovo fuso orario, a meno che il medico non dica diversamente." }
+      ],
+      "source": { "label": "MedlinePlus: Prendere le medicine a casa, creare una routine", "url": "https://medlineplus.gov/ency/patientinstructions/000613.htm" }
+    },
+    {
+      "id": "refill",
+      "category": "Abitudini",
+      "title": "Non restare mai senza la tua medicina",
+      "summary": "Restare senza, anche solo per un giorno o due, può vanificare settimane di impegno. Pensa per tempo a rifornirti.",
+      "image": "stories/images/refill.webp",
+      "animation": "stories/animations/refill.json",
+      "readMinutes": 2,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "Molte dosi saltano semplicemente perché la confezione è finita. Alcune medicine non vanno sospese all'improvviso, quindi una pausa può fare davvero male." },
+        { "type": "list", "items": [
+          "Riordina quando ti resta circa una settimana di scorta, non l'ultimo giorno.",
+          "Chiedi le ricette ripetibili, così non ti serve una nuova visita ogni volta.",
+          "Prima delle vacanze e dei ponti, controlla di averne abbastanza.",
+          "Tieni sul telefono una foto o una lista delle tue medicine con i dosaggi, nel caso tu debba comprarne altre lontano da casa."
+        ] },
+        { "type": "tip", "text": "Quando aggiungi qui una medicina, inserisci quante pillole hai. L'app le scala a ogni dose, la mostra sotto Sta finendo e ti ricorda di rifornirti in tempo." }
+      ]
+    },
+    {
+      "id": "side-effects",
+      "category": "Sicurezza",
+      "title": "Effetti collaterali: cosa è normale e quando chiedere aiuto",
+      "summary": "La maggior parte degli effetti collaterali è lieve e passa. Alcuni richiedono aiuto subito. Come capire la differenza.",
+      "image": "stories/images/side-effects.webp",
+      "animation": "stories/animations/side-effects.json",
+      "readMinutes": 3,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "Quasi ogni medicina può causare effetti collaterali. La maggior parte sono lievi, come mal di stomaco, mal di testa o sonnolenza, e spesso migliorano dopo i primi giorni, quando il corpo si abitua alla medicina." },
+        { "type": "heading", "text": "Chiedi subito aiuto d'emergenza se noti" },
+        { "type": "list", "items": [
+          "Gonfiore del viso, delle labbra, della lingua o della gola",
+          "Difficoltà a respirare o senso di oppressione al petto",
+          "Un'eruzione cutanea estesa, vesciche o pelle che si stacca",
+          "Svenimento, battito accelerato o forti capogiri"
+        ] },
+        { "type": "ad" },
+        { "type": "heading", "text": "Per gli altri effetti collaterali" },
+        { "type": "paragraph", "text": "Se un effetto collaterale ti dà fastidio o non passa, parlane con il medico o il farmacista. Non smettere semplicemente la medicina: una dose più bassa, un altro momento della giornata o un'altra medicina possono risolvere il problema." },
+        { "type": "tip", "text": "Annota cosa noti e quando è iniziato. Aiuta il medico a capire se la causa è la medicina." }
+      ],
+      "source": { "label": "MedlinePlus: Reazioni ai farmaci", "url": "https://medlineplus.gov/drugreactions.html" }
+    },
+    { "type": "ad" },
+    {
+      "id": "mixing",
+      "category": "Sicurezza",
+      "title": "Mescolare medicine, integratori e rimedi erboristici",
+      "summary": "Le medicine possono influenzarsi a vicenda. Perché il medico deve sapere tutto quello che prendi.",
+      "image": "stories/images/mixing.webp",
+      "animation": "stories/animations/mixing.json",
+      "readMinutes": 2,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "Quando prendi più di una medicina, possono cambiare l'una l'effetto dell'altra: una può diventare più debole, o più forte del previsto. Lo stesso vale per vitamine, rimedi erboristici, alcuni cibi e l'alcol." },
+        { "type": "list", "items": [
+          "Di' a ogni medico, dentista e farmacista tutto quello che prendi, compresi i farmaci da banco e gli integratori.",
+          "Quando puoi, usa sempre la stessa farmacia, così possono accorgersi delle interazioni.",
+          "Controlla la confezione dei rimedi per raffreddore e dolore: molti contengono lo stesso principio attivo, per esempio il paracetamolo, ed è facile prenderne troppo.",
+          "Chiedi prima di bere alcol con una nuova medicina."
+        ] },
+        { "type": "tip", "text": "La tua scheda Medicine è una lista pronta di tutto quello che prendi, con i dosaggi. Mostrala alla prossima visita." }
+      ],
+      "source": { "label": "FDA: Interazioni tra farmaci, cosa dovresti sapere", "url": "https://www.fda.gov/drugs/resources-you-drugs/drug-interactions-what-you-should-know" }
+    },
+    {
+      "id": "ask-doctor",
+      "category": "Consigli del medico",
+      "title": "Domande da fare su una nuova medicina",
+      "summary": "Qualche minuto di domande dal medico o in farmacia può risparmiarti molte preoccupazioni dopo.",
+      "image": "stories/images/ask-doctor.webp",
+      "animation": "stories/animations/ask-doctor.json",
+      "readMinutes": 2,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "Quando ricevi una nuova medicina, va benissimo fare domande finché tutto non è chiaro. Medici e farmacisti se lo aspettano." },
+        { "type": "list", "items": [
+          "A cosa serve, e come capisco che sta funzionando?",
+          "Quanto ne prendo, a che ora, e prima o dopo i pasti?",
+          "Per quanto tempo devo prenderla?",
+          "Cosa devo fare se salto una dose?",
+          "Quali effetti collaterali sono comuni, e quali vogliono dire che devo chiamarti?",
+          "Si può prendere senza rischi con le mie altre medicine, gli integratori o l'alcol?",
+          "Posso guidare o lavorare come sempre mentre la prendo?"
+        ] },
+        { "type": "tip", "text": "Aggiungi qui la medicina appena la ricevi, con gli orari che ti ha dato il medico, così il piano è pronto prima della prima dose." }
+      ],
+      "source": { "label": "MedlinePlus: Prendere le medicine, cosa chiedere al medico", "url": "https://medlineplus.gov/ency/patientinstructions/000535.htm" }
+    },
+    {
+      "id": "storage",
+      "category": "Sicurezza",
+      "title": "Conserva le medicine nel modo giusto",
+      "summary": "Caldo, umidità e bambini curiosi sono i rischi più grandi. Dove tenere le medicine e quando buttarle.",
+      "image": "stories/images/storage.webp",
+      "animation": "stories/animations/storage.json",
+      "readMinutes": 2,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "Le medicine possono perdere efficacia, o persino diventare dannose, se sono conservate nel posto sbagliato." },
+        { "type": "list", "items": [
+          "Tienile in un luogo fresco e asciutto, lontano dalla luce del sole. Il bagno e la cucina vicino ai fornelli sono spesso troppo caldi e umidi.",
+          "Tienile nella confezione originale con l'etichetta e il foglietto illustrativo.",
+          "Conserva le medicine in alto e fuori dalla vista dei bambini, meglio se sotto chiave.",
+          "In frigorifero metti solo quello che, secondo la confezione, va tenuto in frigo, per esempio alcune insuline e alcuni colliri."
+        ] },
+        { "type": "heading", "text": "Medicine vecchie e non usate" },
+        { "type": "paragraph", "text": "Controlla ogni tanto le date di scadenza. Riporta le medicine vecchie o non usate in farmacia invece di buttarle nella spazzatura o nel water." }
+      ],
+      "source": { "label": "MedlinePlus: Conservare le medicine", "url": "https://medlineplus.gov/ency/patientinstructions/000534.htm" }
+    },
+    {
+      "id": "family",
+      "category": "Famiglia",
+      "title": "Aiutare un genitore o un figlio con le medicine",
+      "summary": "Ti occupi anche delle medicine di qualcun altro? Consigli per non confondere le dosi di nessuno.",
+      "image": "stories/images/family.webp",
+      "animation": "stories/animations/family.json",
+      "readMinutes": 2,
+      "featured": false,
+      "body": [
+        { "type": "paragraph", "text": "Gestire le medicine di genitori, figli o partner oltre alle tue è tanto da tenere a mente. Un piano condiviso aiuta." },
+        { "type": "list", "items": [
+          "Tieni separate le medicine di ogni persona, meglio se in una scatola o un portapillole tutto suo.",
+          "Per i bambini usa sempre il cucchiaino dosatore o la siringa che trovi con la medicina, mai un cucchiaio da cucina.",
+          "Gli anziani spesso prendono diverse medicine: chiedi al farmacista una revisione delle medicine una volta all'anno.",
+          "Annota chi ha dato quale dose, così nessuno la dà due volte."
+        ] },
+        { "type": "tip", "text": "Aggiungi i familiari in Impostazioni → Famiglia, poi assegna a ognuno le sue medicine. Oggi mostra le dosi di tutti, ognuno con il proprio avatar." }
+      ],
+      "source": { "label": "MedlinePlus: Prendere più medicine in sicurezza", "url": "https://medlineplus.gov/ency/patientinstructions/000883.htm" }
+    }
+  ]
+}
