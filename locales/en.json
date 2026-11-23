@@ -50,7 +50,8 @@
     "tooManyMembers": "You can add up to 10 people",
     "selfExists": "There's already a \"Me\"",
     "cantRemoveSelf": "You can't remove yourself",
-    "unknownMember": "Pick who it's for"
+    "unknownMember": "Pick who it's for",
+    "unknownMedicine": "That medicine is no longer in your list."
   },
   "history": {
     "emptyTitle": "No history yet",
@@ -372,7 +373,7 @@
     "leftShort_other": "{{count}} left",
     "delete": "Delete medicine",
     "deleteTitle": "Delete {{name}}?",
-    "deleteBody": "Its reminders and history are removed too. To keep the history, pause it instead.",
+    "deleteBody": "It's removed for everyone who takes it, with their reminders and history.",
     "saveFor_one": "Save for {{count}} person",
     "saveFor_other": "Save for {{count}} people"
   },
@@ -396,5 +397,23 @@
     "count_one": "{{count}} medicine",
     "count_other": "{{count}} medicines",
     "noneFor": "No medicines for this person yet"
+  },
+  "assign": {
+    "title": "Assign {{name}}",
+    "editTitle": "{{name}} for {{person}}",
+    "button": "Assign to a person",
+    "another": "Assign to someone else",
+    "later": "Later",
+    "promptTitle": "Who takes it?",
+    "promptBody": "Assign it to yourself or a family member to get reminders.",
+    "whoTakesIt": "Who takes it",
+    "noneYet": "Nobody takes it yet",
+    "noneYetBody": "Assign it to someone to get reminders for it.",
+    "notAssigned": "Not assigned",
+    "remove": "Stop for this person",
+    "removeTitle": "Stop {{name}} for {{person}}?",
+    "removeBody": "Their reminders and history for it are removed. The medicine stays in your list.",
+    "pickSomeone": "Pick who takes it.",
+    "everyoneHasIt": "Everyone already takes this medicine."
   }
 }

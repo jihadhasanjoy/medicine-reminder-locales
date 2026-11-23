@@ -50,7 +50,8 @@
     "tooManyMembers": "সর্বোচ্চ ১০ জন যোগ করা যায়",
     "selfExists": "\"আমি\" আগে থেকেই আছে",
     "cantRemoveSelf": "নিজেকে সরানো যায় না",
-    "unknownMember": "কার জন্য তা বাছুন"
+    "unknownMember": "কার জন্য তা বাছুন",
+    "unknownMedicine": "এই ওষুধটি আর তালিকায় নেই।"
   },
   "history": {
     "emptyTitle": "এখনো কোনো ইতিহাস নেই",
@@ -372,7 +373,7 @@
     "leftShort_other": "{{count}} বাকি",
     "delete": "ওষুধ মুছুন",
     "deleteTitle": "{{name}} মুছবেন?",
-    "deleteBody": "এর রিমাইন্ডার ও ইতিহাসও মুছে যাবে। ইতিহাস রাখতে চাইলে বরং থামিয়ে দিন।",
+    "deleteBody": "যারা খান সবার জন্য মুছে যাবে, রিমাইন্ডার ও ইতিহাসসহ।",
     "saveFor_one": "{{count}} জনের জন্য সেভ করুন",
     "saveFor_other": "{{count}} জনের জন্য সেভ করুন"
   },
@@ -396,5 +397,23 @@
     "count_one": "{{count}}টি ওষুধ",
     "count_other": "{{count}}টি ওষুধ",
     "noneFor": "এই মানুষটির জন্য এখনো কোনো ওষুধ নেই"
+  },
+  "assign": {
+    "title": "{{name}} কাউকে দিন",
+    "editTitle": "{{person}}-এর {{name}}",
+    "button": "কাউকে দিন",
+    "another": "আরেকজনকে দিন",
+    "later": "পরে",
+    "promptTitle": "কে খাবেন?",
+    "promptBody": "রিমাইন্ডার পেতে নিজেকে বা পরিবারের কাউকে দিন।",
+    "whoTakesIt": "কে খান",
+    "noneYet": "এখনো কেউ খান না",
+    "noneYetBody": "রিমাইন্ডার পেতে কাউকে দিন।",
+    "notAssigned": "কাউকে দেওয়া হয়নি",
+    "remove": "এই মানুষটির জন্য বন্ধ করুন",
+    "removeTitle": "{{person}}-এর {{name}} বন্ধ করবেন?",
+    "removeBody": "তার রিমাইন্ডার ও ইতিহাস মুছে যাবে। ওষুধটি তালিকায় থাকবে।",
+    "pickSomeone": "কে খাবেন বেছে নিন।",
+    "everyoneHasIt": "সবাই আগে থেকেই এই ওষুধ খান।"
   }
 }

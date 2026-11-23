@@ -50,7 +50,8 @@
     "tooManyMembers": "Du kannst bis zu 10 Personen hinzufügen",
     "selfExists": "\"Ich\" gibt es schon",
     "cantRemoveSelf": "Du kannst dich nicht selbst entfernen",
-    "unknownMember": "Wähle, für wen es ist"
+    "unknownMember": "Wähle, für wen es ist",
+    "unknownMedicine": "Dieses Medikament ist nicht mehr in deiner Liste."
   },
   "history": {
     "emptyTitle": "Noch kein Verlauf",
@@ -372,7 +373,7 @@
     "leftShort_other": "noch {{count}}",
     "delete": "Medikament löschen",
     "deleteTitle": "{{name}} löschen?",
-    "deleteBody": "Seine Erinnerungen und sein Verlauf werden auch gelöscht. Um den Verlauf zu behalten, pausiere es lieber.",
+    "deleteBody": "Es wird für alle entfernt, die es nehmen, mit Erinnerungen und Verlauf.",
     "saveFor_one": "Für {{count}} Person speichern",
     "saveFor_other": "Für {{count}} Personen speichern"
   },
@@ -396,5 +397,23 @@
     "count_one": "{{count}} Medikament",
     "count_other": "{{count}} Medikamente",
     "noneFor": "Für diese Person noch keine Medikamente"
+  },
+  "assign": {
+    "title": "{{name}} zuweisen",
+    "editTitle": "{{name}} für {{person}}",
+    "button": "Einer Person zuweisen",
+    "another": "Jemand anderem zuweisen",
+    "later": "Später",
+    "promptTitle": "Wer nimmt es?",
+    "promptBody": "Weise es dir oder einem Familienmitglied zu, um Erinnerungen zu bekommen.",
+    "whoTakesIt": "Wer nimmt es",
+    "noneYet": "Noch nimmt es niemand",
+    "noneYetBody": "Weise es jemandem zu, um Erinnerungen zu bekommen.",
+    "notAssigned": "Nicht zugewiesen",
+    "remove": "Für diese Person beenden",
+    "removeTitle": "{{name}} für {{person}} beenden?",
+    "removeBody": "Ihre Erinnerungen und ihr Verlauf dazu werden gelöscht. Das Medikament bleibt in deiner Liste.",
+    "pickSomeone": "Wähle, wer es nimmt.",
+    "everyoneHasIt": "Alle nehmen dieses Medikament schon."
   }
 }

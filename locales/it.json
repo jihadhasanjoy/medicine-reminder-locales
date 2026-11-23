@@ -50,7 +50,8 @@
     "tooManyMembers": "Puoi aggiungere fino a 10 persone",
     "selfExists": "C'è già \"Io\"",
     "cantRemoveSelf": "Non puoi rimuovere te stesso",
-    "unknownMember": "Scegli per chi è"
+    "unknownMember": "Scegli per chi è",
+    "unknownMedicine": "Questa medicina non è più nella tua lista."
   },
   "history": {
     "emptyTitle": "Ancora nessuna cronologia",
@@ -372,7 +373,7 @@
     "leftShort_other": "ne restano {{count}}",
     "delete": "Elimina medicina",
     "deleteTitle": "Eliminare {{name}}?",
-    "deleteBody": "Vengono eliminati anche i promemoria e la cronologia. Per tenere la cronologia, sospendila invece.",
+    "deleteBody": "Viene rimossa per tutti quelli che la prendono, con promemoria e cronologia.",
     "saveFor_one": "Salva per {{count}} persona",
     "saveFor_other": "Salva per {{count}} persone"
   },
@@ -396,5 +397,23 @@
     "count_one": "{{count}} medicina",
     "count_other": "{{count}} medicine",
     "noneFor": "Ancora nessuna medicina per questa persona"
+  },
+  "assign": {
+    "title": "Assegna {{name}}",
+    "editTitle": "{{name}} per {{person}}",
+    "button": "Assegna a una persona",
+    "another": "Assegna a qualcun altro",
+    "later": "Più tardi",
+    "promptTitle": "Chi lo prende?",
+    "promptBody": "Assegnalo a te o a un familiare per ricevere i promemoria.",
+    "whoTakesIt": "Chi lo prende",
+    "noneYet": "Nessuno lo prende ancora",
+    "noneYetBody": "Assegnalo a qualcuno per ricevere i promemoria.",
+    "notAssigned": "Non assegnato",
+    "remove": "Interrompi per questa persona",
+    "removeTitle": "Interrompere {{name}} per {{person}}?",
+    "removeBody": "I suoi promemoria e la cronologia vengono rimossi. La medicina resta nella tua lista.",
+    "pickSomeone": "Scegli chi lo prende.",
+    "everyoneHasIt": "Tutti prendono già questa medicina."
   }
 }
