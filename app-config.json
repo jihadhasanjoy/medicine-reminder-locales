@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "adFreeTrialDays": 1,
+  "rewardedAdFreeHours": 12,
+  "android": {
+    "minVersion": "1.0.0-1",
+    "latestVersion": "1.0.0-1",
+    "storeUrl": "",
+    "storeUrlProd": "",
+    "storeUrlDev": "",
+    "bannerUnit": "",
+    "rewardedUnit": ""
+  },
+  "ios": {
+    "minVersion": "1.0.0-1",
+    "latestVersion": "1.0.0-1",
+    "storeUrl": "",
+    "storeUrlProd": "",
+    "storeUrlDev": "",
+    "bannerUnit": "",
+    "rewardedUnit": ""
+  }
+}
