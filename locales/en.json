@@ -489,6 +489,8 @@
     "offline": "Couldn't load stories. Check your connection.",
     "source": "Source: {{label}}",
     "disclaimer": "General health information, not medical advice. Always follow your doctor's or pharmacist's advice.",
-    "notFound": "This story is no longer available."
+    "notFound": "This story is no longer available.",
+    "count_one": "{{count}} story",
+    "count_other": "{{count}} stories"
   }
 }

@@ -489,6 +489,8 @@
     "offline": "Impossibile caricare le storie. Controlla la connessione.",
     "source": "Fonte: {{label}}",
     "disclaimer": "Informazioni generali sulla salute, non consigli medici. Segui sempre le indicazioni del medico o del farmacista.",
-    "notFound": "Questa storia non è più disponibile."
+    "notFound": "Questa storia non è più disponibile.",
+    "count_one": "{{count}} articolo",
+    "count_other": "{{count}} articoli"
   }
 }

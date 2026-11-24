@@ -489,6 +489,8 @@
     "offline": "Geschichten konnten nicht geladen werden. Prüfe deine Verbindung.",
     "source": "Quelle: {{label}}",
     "disclaimer": "Allgemeine Gesundheitsinformationen, keine ärztliche Beratung. Folge immer dem Rat deiner Ärztin, deines Arztes oder deiner Apotheke.",
-    "notFound": "Diese Geschichte ist nicht mehr verfügbar."
+    "notFound": "Diese Geschichte ist nicht mehr verfügbar.",
+    "count_one": "{{count}} Beitrag",
+    "count_other": "{{count}} Beiträge"
   }
 }
