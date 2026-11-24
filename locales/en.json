@@ -432,7 +432,8 @@
     "windowFrom": "From",
     "windowUntil": "Until",
     "windowUseAuto": "Use automatic",
-    "windowInvalid": "The dose time has to be between From and Until."
+    "windowInvalid": "The dose time has to be between From and Until.",
+    "doneForToday": "Done for today"
   },
   "members": {
     "title": "Family",
@@ -453,7 +454,13 @@
   "medicines": {
     "count_one": "{{count}} medicine",
     "count_other": "{{count}} medicines",
-    "noneFor": "No medicines for this person yet"
+    "noneFor": "No medicines for this person yet",
+    "filter": {
+      "all": "All",
+      "low": "Running low",
+      "paused": "Paused"
+    },
+    "noneMatch": "Nothing here right now"
   },
   "assign": {
     "title": "Assign {{name}}",

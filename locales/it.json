@@ -432,7 +432,8 @@
     "windowFrom": "Dalle",
     "windowUntil": "Fino alle",
     "windowUseAuto": "Usa automatico",
-    "windowInvalid": "L'orario della dose deve essere tra \"Dalle\" e \"Fino alle\"."
+    "windowInvalid": "L'orario della dose deve essere tra \"Dalle\" e \"Fino alle\".",
+    "doneForToday": "Fatto per oggi"
   },
   "members": {
     "title": "Famiglia",
@@ -453,7 +454,13 @@
   "medicines": {
     "count_one": "{{count}} medicina",
     "count_other": "{{count}} medicine",
-    "noneFor": "Ancora nessuna medicina per questa persona"
+    "noneFor": "Ancora nessuna medicina per questa persona",
+    "filter": {
+      "all": "Tutti",
+      "low": "Sta finendo",
+      "paused": "Sospesa"
+    },
+    "noneMatch": "Niente qui per ora"
   },
   "assign": {
     "title": "Assegna {{name}}",

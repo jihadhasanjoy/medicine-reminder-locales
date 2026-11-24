@@ -432,7 +432,8 @@
     "windowFrom": "से",
     "windowUntil": "तक",
     "windowUseAuto": "ऑटो समय इस्तेमाल करें",
-    "windowInvalid": "खुराक का समय \"से\" और \"तक\" के बीच होना चाहिए।"
+    "windowInvalid": "खुराक का समय \"से\" और \"तक\" के बीच होना चाहिए।",
+    "doneForToday": "आज के लिए पूरी"
   },
   "members": {
     "title": "परिवार",
@@ -453,7 +454,13 @@
   "medicines": {
     "count_one": "{{count}} दवा",
     "count_other": "{{count}} दवाएँ",
-    "noneFor": "इस व्यक्ति के लिए अभी कोई दवा नहीं"
+    "noneFor": "इस व्यक्ति के लिए अभी कोई दवा नहीं",
+    "filter": {
+      "all": "सभी",
+      "low": "कम बची है",
+      "paused": "रुकी हुई"
+    },
+    "noneMatch": "अभी यहाँ कुछ नहीं है"
   },
   "assign": {
     "title": "{{name}} किसी को दें",

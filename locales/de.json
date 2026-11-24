@@ -432,7 +432,8 @@
     "windowFrom": "Ab",
     "windowUntil": "Bis",
     "windowUseAuto": "Automatisch verwenden",
-    "windowInvalid": "Die Dosiszeit muss zwischen „Ab“ und „Bis“ liegen."
+    "windowInvalid": "Die Dosiszeit muss zwischen „Ab“ und „Bis“ liegen.",
+    "doneForToday": "Für heute erledigt"
   },
   "members": {
     "title": "Familie",
@@ -453,7 +454,13 @@
   "medicines": {
     "count_one": "{{count}} Medikament",
     "count_other": "{{count}} Medikamente",
-    "noneFor": "Für diese Person noch keine Medikamente"
+    "noneFor": "Für diese Person noch keine Medikamente",
+    "filter": {
+      "all": "Alle",
+      "low": "Fast leer",
+      "paused": "Pausiert"
+    },
+    "noneMatch": "Gerade nichts hier"
   },
   "assign": {
     "title": "{{name}} zuweisen",

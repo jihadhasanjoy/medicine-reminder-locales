@@ -432,7 +432,8 @@
     "windowFrom": "سے",
     "windowUntil": "تک",
     "windowUseAuto": "خودکار وقت استعمال کریں",
-    "windowInvalid": "خوراک کا وقت \"سے\" اور \"تک\" کے درمیان ہونا چاہیے۔"
+    "windowInvalid": "خوراک کا وقت \"سے\" اور \"تک\" کے درمیان ہونا چاہیے۔",
+    "doneForToday": "آج کے لیے مکمل"
   },
   "members": {
     "title": "خاندان",
@@ -453,7 +454,13 @@
   "medicines": {
     "count_one": "{{count}} دوا",
     "count_other": "{{count}} دوائیں",
-    "noneFor": "اس شخص کے لیے ابھی کوئی دوا نہیں"
+    "noneFor": "اس شخص کے لیے ابھی کوئی دوا نہیں",
+    "filter": {
+      "all": "سب",
+      "low": "کم رہ گئی",
+      "paused": "رکی ہوئی"
+    },
+    "noneMatch": "ابھی یہاں کچھ نہیں"
   },
   "assign": {
     "title": "{{name}} کسی کو دیں",
