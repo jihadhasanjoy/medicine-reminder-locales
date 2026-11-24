@@ -1,39 +1,39 @@
 {
   "schemaVersion": 1,
-  "version": 14,
-  "updatedAt": "2026-11-24T03:56:01.091Z",
+  "version": 15,
+  "updatedAt": "2026-11-24T04:20:31.249Z",
   "languages": "languages.json",
   "languagesSha256": "82edf76ab8a9aff265287bb83a6afce3c90d4c2a48c2b1483ea9f1740ccfc6b2",
   "locales": {
     "en": {
       "file": "locales/en.json",
-      "sha256": "da512782bed0a4e3ff4439f2e50360d7a28e7007444447b81b6460abf9d80b64",
-      "keys": 397
+      "sha256": "64876d2d01888e953a362ac5d67f204e436499e9ef5358b9fe39f8451c10992c",
+      "keys": 399
     },
     "bn": {
       "file": "locales/bn.json",
-      "sha256": "68609006f0f72b1fd3097fc3271a1455ccf91c8170668655a54c89a3926a318d",
-      "keys": 397
+      "sha256": "f9839423142f69eb9f489a115420d8466eb158ce0899a5e093a0e66932035549",
+      "keys": 399
     },
     "hi": {
       "file": "locales/hi.json",
-      "sha256": "1da43a194b73f426799498f5ecd4ab91b6e9ee47d4787a61111dc7b94738c97c",
-      "keys": 397
+      "sha256": "13ad1d0bda30aeb3f682ada62583a3c552a802e4e49ce2011d825370167c792a",
+      "keys": 399
     },
     "ur": {
       "file": "locales/ur.json",
-      "sha256": "617fa77d7af52c3e526a0269192a1eb9d8ec7d4d8b0d1f25b8fca936f7aaeed4",
-      "keys": 397
+      "sha256": "0d818e378e1b055abe2918d38bcc6d614ce4a8938e5813c0cb93341479c44b36",
+      "keys": 399
     },
     "de": {
       "file": "locales/de.json",
-      "sha256": "81427a13f91d9d99bee05d84a0b12c64ca3b1960677feb6501569602f5f63546",
-      "keys": 397
+      "sha256": "c572a4bae86cb001da878c29e440bcdf27490d83c88088310e81c117248f45e3",
+      "keys": 399
     },
     "it": {
       "file": "locales/it.json",
-      "sha256": "a2a8decab610aaa6d472880e9a68e333a4f2d30265384708ff13dfc05f616cd6",
-      "keys": 397
+      "sha256": "58cf05a2a803c3e3ddb29383ce6a432e76b7dacb461a8ee90793102e3fa89197",
+      "keys": 399
     }
   },
   "stories": {

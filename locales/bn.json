@@ -133,14 +133,7 @@
     "snoozeLength": "স্নুজের সময়",
     "minutes": "{{count}} মিনিট",
     "dailyReports": "সকালের নোট",
-    "dailyReportsHint": "ঘুম থেকে উঠলে: আজ কয়টি ডোজ আর প্রথমটি কখন",
-    "takeOnTime": "শুধু সময়মতো খাওয়া",
-    "takeOnTimeHint": "ডোজের ১ ঘণ্টা আগে থেকে \"খেয়েছি\" দেওয়া যাবে; খাবারের সঙ্গে খাওয়ার ওষুধে দিনের ওই অংশ শুরু হলেই। \"বাদ দিন\" সবসময় কাজ করে।",
-    "dayParts": "খাবারের সঙ্গে খাওয়ার ওষুধের জন্য দিনের কোন অংশ কখন শুরু।",
-    "morningFrom": "সকাল শুরু",
-    "afternoonFrom": "দুপুর শুরু",
-    "nightFrom": "রাত শুরু",
-    "dayPartsOrder": "সকাল, দুপুর আর রাত এই ক্রমেই হতে হবে।"
+    "dailyReportsHint": "ঘুম থেকে উঠলে: আজ কয়টি ডোজ আর প্রথমটি কখন"
   },
   "permissions": {
     "blockedTitle": "রিমাইন্ডার বন্ধ আছে",
@@ -330,7 +323,8 @@
     "markTaken_one": "{{count}}টি খাওয়া হয়েছে দিন",
     "markTaken_other": "{{count}}টি খাওয়া হয়েছে দিন",
     "opensAt": "{{time}} থেকে",
-    "opensAtHint": "{{time}} থেকে \"খেয়েছি\" দেওয়া যাবে"
+    "opensAtHint": "{{time}} থেকে \"খেয়েছি\" দেওয়া যাবে",
+    "takeBy": "{{time}}-এর মধ্যে খান"
   },
   "medicine": {
     "addTitle": "ওষুধ যোগ করুন",
@@ -414,7 +408,15 @@
     "saveFor_other": "{{count}} জনের জন্য সেভ করুন",
     "timesPerDay_one": "দিনে একবার",
     "timesPerDay_other": "দিনে {{count}} বার",
-    "nextAt": "পরের ডোজ {{time}}"
+    "nextAt": "পরের ডোজ {{time}}",
+    "takeWindow": "{{from}} – {{until}} খাওয়া যাবে",
+    "windowAuto": "অটো",
+    "windowTitle": "কখন খাওয়া যাবে?",
+    "windowHint": "ডোজের সময় {{time}}। শুধু এই সময়ের মধ্যে \"খেয়েছি\" দেওয়া যাবে।",
+    "windowFrom": "থেকে",
+    "windowUntil": "পর্যন্ত",
+    "windowUseAuto": "অটো সময় ব্যবহার করুন",
+    "windowInvalid": "ডোজের সময় \"থেকে\" আর \"পর্যন্ত\"-এর মধ্যে হতে হবে।"
   },
   "members": {
     "title": "পরিবার",

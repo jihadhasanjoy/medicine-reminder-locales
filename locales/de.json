@@ -133,14 +133,7 @@
     "snoozeLength": "Schlummerdauer",
     "minutes": "{{count}} Min.",
     "dailyReports": "Morgennotiz",
-    "dailyReportsHint": "Beim Aufwachen: wie viele Dosen heute und wann die erste ist",
-    "takeOnTime": "Nur zur richtigen Zeit",
-    "takeOnTimeHint": "„Genommen“ geht ab 1 Stunde vor der Dosis, bei Dosen zum Essen ab Beginn des Tagesabschnitts. „Auslassen“ geht immer.",
-    "dayParts": "Wann die Tagesabschnitte beginnen, für Dosen zum Essen.",
-    "morningFrom": "Morgen ab",
-    "afternoonFrom": "Mittag ab",
-    "nightFrom": "Abend ab",
-    "dayPartsOrder": "Morgen, Mittag und Abend müssen in dieser Reihenfolge sein."
+    "dailyReportsHint": "Beim Aufwachen: wie viele Dosen heute und wann die erste ist"
   },
   "permissions": {
     "blockedTitle": "Erinnerungen sind blockiert",
@@ -330,7 +323,8 @@
     "markTaken_one": "{{count}} als genommen markieren",
     "markTaken_other": "{{count}} als genommen markieren",
     "opensAt": "Ab {{time}}",
-    "opensAtHint": "„Genommen“ ab {{time}} möglich"
+    "opensAtHint": "„Genommen“ ab {{time}} möglich",
+    "takeBy": "Bis {{time}} nehmen"
   },
   "medicine": {
     "addTitle": "Medikament hinzufügen",
@@ -414,7 +408,15 @@
     "saveFor_other": "Für {{count}} Personen speichern",
     "timesPerDay_one": "Einmal täglich",
     "timesPerDay_other": "{{count}}-mal täglich",
-    "nextAt": "Nächste {{time}}"
+    "nextAt": "Nächste {{time}}",
+    "takeWindow": "Einnahme {{from}} – {{until}}",
+    "windowAuto": "Auto",
+    "windowTitle": "Wann kann sie genommen werden?",
+    "windowHint": "Die Dosis ist um {{time}}. „Genommen“ geht nur zwischen diesen Zeiten.",
+    "windowFrom": "Ab",
+    "windowUntil": "Bis",
+    "windowUseAuto": "Automatisch verwenden",
+    "windowInvalid": "Die Dosiszeit muss zwischen „Ab“ und „Bis“ liegen."
   },
   "members": {
     "title": "Familie",

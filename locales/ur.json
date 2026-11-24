@@ -133,14 +133,7 @@
     "snoozeLength": "اسنوز کا دورانیہ",
     "minutes": "{{count}} منٹ",
     "dailyReports": "صبح کا نوٹ",
-    "dailyReportsHint": "جاگنے پر: آج کتنی خوراکیں اور پہلی کب",
-    "takeOnTime": "صرف وقت پر لیں",
-    "takeOnTimeHint": "خوراک سے 1 گھنٹہ پہلے سے \"لے لی\" دبا سکتے ہیں؛ کھانے کے ساتھ والی دوا میں دن کا وہ حصہ شروع ہوتے ہی۔ \"چھوڑ دیں\" ہمیشہ کام کرتا ہے۔",
-    "dayParts": "کھانے کے ساتھ والی دواؤں کے لیے دن کا ہر حصہ کب شروع ہوتا ہے۔",
-    "morningFrom": "صبح شروع",
-    "afternoonFrom": "دوپہر شروع",
-    "nightFrom": "رات شروع",
-    "dayPartsOrder": "صبح، دوپہر اور رات اسی ترتیب میں ہونے چاہئیں۔"
+    "dailyReportsHint": "جاگنے پر: آج کتنی خوراکیں اور پہلی کب"
   },
   "permissions": {
     "blockedTitle": "یاد دہانیاں بند ہیں",
@@ -330,7 +323,8 @@
     "markTaken_one": "{{count}} لی گئی نشان لگائیں",
     "markTaken_other": "{{count}} لی گئیں نشان لگائیں",
     "opensAt": "{{time}} سے",
-    "opensAtHint": "{{time}} سے \"لے لی\" دبا سکتے ہیں"
+    "opensAtHint": "{{time}} سے \"لے لی\" دبا سکتے ہیں",
+    "takeBy": "{{time}} تک لیں"
   },
   "medicine": {
     "addTitle": "دوا شامل کریں",
@@ -414,7 +408,15 @@
     "saveFor_other": "{{count}} لوگوں کے لیے محفوظ کریں",
     "timesPerDay_one": "دن میں ایک بار",
     "timesPerDay_other": "دن میں {{count}} بار",
-    "nextAt": "اگلی {{time}}"
+    "nextAt": "اگلی {{time}}",
+    "takeWindow": "{{from}} – {{until}} لے سکتے ہیں",
+    "windowAuto": "خودکار",
+    "windowTitle": "کب لی جا سکتی ہے؟",
+    "windowHint": "خوراک کا وقت {{time}} ہے۔ \"لے لی\" صرف ان اوقات کے درمیان دبا سکتے ہیں۔",
+    "windowFrom": "سے",
+    "windowUntil": "تک",
+    "windowUseAuto": "خودکار وقت استعمال کریں",
+    "windowInvalid": "خوراک کا وقت \"سے\" اور \"تک\" کے درمیان ہونا چاہیے۔"
   },
   "members": {
     "title": "خاندان",

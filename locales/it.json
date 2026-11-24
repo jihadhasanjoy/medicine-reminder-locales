@@ -133,14 +133,7 @@
     "snoozeLength": "Durata del posticipo",
     "minutes": "{{count}} min",
     "dailyReports": "Nota del mattino",
-    "dailyReportsHint": "Al risveglio: quante dosi oggi e quando c'è la prima",
-    "takeOnTime": "Solo all'orario giusto",
-    "takeOnTimeHint": "\"Presa\" si sblocca 1 ora prima della dose, o dall'inizio della parte del giorno per le dosi ai pasti. \"Salta\" funziona sempre.",
-    "dayParts": "Quando inizia ogni parte del giorno, per le dosi ai pasti.",
-    "morningFrom": "Mattina dalle",
-    "afternoonFrom": "Pomeriggio dalle",
-    "nightFrom": "Sera dalle",
-    "dayPartsOrder": "Mattina, pomeriggio e sera devono essere in quest'ordine."
+    "dailyReportsHint": "Al risveglio: quante dosi oggi e quando c'è la prima"
   },
   "permissions": {
     "blockedTitle": "Promemoria bloccati",
@@ -330,7 +323,8 @@
     "markTaken_one": "Segna {{count}} come presa",
     "markTaken_other": "Segna {{count}} come prese",
     "opensAt": "Dalle {{time}}",
-    "opensAtHint": "\"Presa\" disponibile dalle {{time}}"
+    "opensAtHint": "\"Presa\" disponibile dalle {{time}}",
+    "takeBy": "Da prendere entro le {{time}}"
   },
   "medicine": {
     "addTitle": "Aggiungi medicina",
@@ -414,7 +408,15 @@
     "saveFor_other": "Salva per {{count}} persone",
     "timesPerDay_one": "Una volta al giorno",
     "timesPerDay_other": "{{count}} volte al giorno",
-    "nextAt": "Prossima {{time}}"
+    "nextAt": "Prossima {{time}}",
+    "takeWindow": "Si può prendere {{from}} – {{until}}",
+    "windowAuto": "Auto",
+    "windowTitle": "Quando si può prendere?",
+    "windowHint": "La dose è alle {{time}}. \"Presa\" funziona solo tra questi orari.",
+    "windowFrom": "Dalle",
+    "windowUntil": "Fino alle",
+    "windowUseAuto": "Usa automatico",
+    "windowInvalid": "L'orario della dose deve essere tra \"Dalle\" e \"Fino alle\"."
   },
   "members": {
     "title": "Famiglia",

@@ -133,14 +133,7 @@
     "snoozeLength": "Snooze length",
     "minutes": "{{count}} min",
     "dailyReports": "Morning note",
-    "dailyReportsHint": "When you wake up: how many doses today and when the first is",
-    "takeOnTime": "Take only at its time",
-    "takeOnTimeHint": "Taken opens 1 hour before a dose, or from the start of its part of the day for doses with a meal. Skip always works.",
-    "dayParts": "When each part of the day starts, for doses taken with a meal.",
-    "morningFrom": "Morning from",
-    "afternoonFrom": "Afternoon from",
-    "nightFrom": "Night from",
-    "dayPartsOrder": "Morning, afternoon and night need to be in that order."
+    "dailyReportsHint": "When you wake up: how many doses today and when the first is"
   },
   "permissions": {
     "blockedTitle": "Reminders are blocked",
@@ -330,7 +323,8 @@
     "markTaken_one": "Mark {{count}} as taken",
     "markTaken_other": "Mark {{count}} as taken",
     "opensAt": "From {{time}}",
-    "opensAtHint": "Taken opens at {{time}}"
+    "opensAtHint": "Taken opens at {{time}}",
+    "takeBy": "Take by {{time}}"
   },
   "medicine": {
     "addTitle": "Add medicine",
@@ -414,7 +408,15 @@
     "saveFor_other": "Save for {{count}} people",
     "timesPerDay_one": "Once a day",
     "timesPerDay_other": "{{count}} times a day",
-    "nextAt": "Next {{time}}"
+    "nextAt": "Next {{time}}",
+    "takeWindow": "Can take {{from}} – {{until}}",
+    "windowAuto": "Auto",
+    "windowTitle": "When can it be taken?",
+    "windowHint": "The dose is at {{time}}. Taken works only between these times.",
+    "windowFrom": "From",
+    "windowUntil": "Until",
+    "windowUseAuto": "Use automatic",
+    "windowInvalid": "The dose time has to be between From and Until."
   },
   "members": {
     "title": "Family",
