@@ -324,7 +324,23 @@
     "markTaken_other": "{{count}} ली गईं मार्क करें",
     "opensAt": "{{time}} से",
     "opensAtHint": "{{time}} से \"ले ली\" दबा सकते हैं",
-    "takeBy": "{{time}} तक लें"
+    "takeBy": "{{time}} तक लें",
+    "greeting": {
+      "morning": "सुप्रभात",
+      "afternoon": "नमस्कार",
+      "evening": "शुभ संध्या",
+      "night": "शुभ रात्रि"
+    },
+    "part": {
+      "morning": "सुबह",
+      "afternoon": "दोपहर",
+      "evening": "शाम",
+      "night": "रात"
+    },
+    "dosesLeft_one": "{{count}} बाकी",
+    "dosesLeft_other": "{{count}} बाकी",
+    "doneToday_one": "आज हो गई · {{count}}",
+    "doneToday_other": "आज हो गईं · {{count}}"
   },
   "medicine": {
     "addTitle": "दवा जोड़ें",

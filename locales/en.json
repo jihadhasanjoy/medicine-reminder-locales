@@ -324,7 +324,23 @@
     "markTaken_other": "Mark {{count}} as taken",
     "opensAt": "From {{time}}",
     "opensAtHint": "Taken opens at {{time}}",
-    "takeBy": "Take by {{time}}"
+    "takeBy": "Take by {{time}}",
+    "greeting": {
+      "morning": "Good morning",
+      "afternoon": "Good afternoon",
+      "evening": "Good evening",
+      "night": "Good night"
+    },
+    "part": {
+      "morning": "Morning",
+      "afternoon": "Afternoon",
+      "evening": "Evening",
+      "night": "Night"
+    },
+    "dosesLeft_one": "{{count}} left",
+    "dosesLeft_other": "{{count}} left",
+    "doneToday_one": "Done today · {{count}}",
+    "doneToday_other": "Done today · {{count}}"
   },
   "medicine": {
     "addTitle": "Add medicine",

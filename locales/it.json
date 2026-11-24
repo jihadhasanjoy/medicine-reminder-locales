@@ -324,7 +324,23 @@
     "markTaken_other": "Segna {{count}} come prese",
     "opensAt": "Dalle {{time}}",
     "opensAtHint": "\"Presa\" disponibile dalle {{time}}",
-    "takeBy": "Da prendere entro le {{time}}"
+    "takeBy": "Da prendere entro le {{time}}",
+    "greeting": {
+      "morning": "Buongiorno",
+      "afternoon": "Buon pomeriggio",
+      "evening": "Buonasera",
+      "night": "Buonanotte"
+    },
+    "part": {
+      "morning": "Mattina",
+      "afternoon": "Pomeriggio",
+      "evening": "Sera",
+      "night": "Notte"
+    },
+    "dosesLeft_one": "ne manca {{count}}",
+    "dosesLeft_other": "ne mancano {{count}}",
+    "doneToday_one": "Fatte oggi · {{count}}",
+    "doneToday_other": "Fatte oggi · {{count}}"
   },
   "medicine": {
     "addTitle": "Aggiungi medicina",

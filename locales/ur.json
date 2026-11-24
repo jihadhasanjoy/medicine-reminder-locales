@@ -324,7 +324,23 @@
     "markTaken_other": "{{count}} لی گئیں نشان لگائیں",
     "opensAt": "{{time}} سے",
     "opensAtHint": "{{time}} سے \"لے لی\" دبا سکتے ہیں",
-    "takeBy": "{{time}} تک لیں"
+    "takeBy": "{{time}} تک لیں",
+    "greeting": {
+      "morning": "صبح بخیر",
+      "afternoon": "سہ پہر بخیر",
+      "evening": "شام بخیر",
+      "night": "شب بخیر"
+    },
+    "part": {
+      "morning": "صبح",
+      "afternoon": "دوپہر",
+      "evening": "شام",
+      "night": "رات"
+    },
+    "dosesLeft_one": "{{count}} باقی",
+    "dosesLeft_other": "{{count}} باقی",
+    "doneToday_one": "آج مکمل · {{count}}",
+    "doneToday_other": "آج مکمل · {{count}}"
   },
   "medicine": {
     "addTitle": "دوا شامل کریں",

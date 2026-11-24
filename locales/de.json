@@ -324,7 +324,23 @@
     "markTaken_other": "{{count}} als genommen markieren",
     "opensAt": "Ab {{time}}",
     "opensAtHint": "„Genommen“ ab {{time}} möglich",
-    "takeBy": "Bis {{time}} nehmen"
+    "takeBy": "Bis {{time}} nehmen",
+    "greeting": {
+      "morning": "Guten Morgen",
+      "afternoon": "Guten Tag",
+      "evening": "Guten Abend",
+      "night": "Gute Nacht"
+    },
+    "part": {
+      "morning": "Morgen",
+      "afternoon": "Mittag",
+      "evening": "Abend",
+      "night": "Nacht"
+    },
+    "dosesLeft_one": "noch {{count}}",
+    "dosesLeft_other": "noch {{count}}",
+    "doneToday_one": "Heute erledigt · {{count}}",
+    "doneToday_other": "Heute erledigt · {{count}}"
   },
   "medicine": {
     "addTitle": "Medikament hinzufügen",

@@ -324,7 +324,23 @@
     "markTaken_other": "{{count}}টি খাওয়া হয়েছে দিন",
     "opensAt": "{{time}} থেকে",
     "opensAtHint": "{{time}} থেকে \"খেয়েছি\" দেওয়া যাবে",
-    "takeBy": "{{time}}-এর মধ্যে খান"
+    "takeBy": "{{time}}-এর মধ্যে খান",
+    "greeting": {
+      "morning": "শুভ সকাল",
+      "afternoon": "শুভ দুপুর",
+      "evening": "শুভ সন্ধ্যা",
+      "night": "শুভ রাত্রি"
+    },
+    "part": {
+      "morning": "সকাল",
+      "afternoon": "দুপুর",
+      "evening": "সন্ধ্যা",
+      "night": "রাত"
+    },
+    "dosesLeft_one": "{{count}}টি বাকি",
+    "dosesLeft_other": "{{count}}টি বাকি",
+    "doneToday_one": "আজ শেষ · {{count}}",
+    "doneToday_other": "আজ শেষ · {{count}}"
   },
   "medicine": {
     "addTitle": "ওষুধ যোগ করুন",
