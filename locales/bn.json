@@ -133,7 +133,14 @@
     "snoozeLength": "স্নুজের সময়",
     "minutes": "{{count}} মিনিট",
     "dailyReports": "সকালের নোট",
-    "dailyReportsHint": "ঘুম থেকে উঠলে: আজ কয়টি ডোজ আর প্রথমটি কখন"
+    "dailyReportsHint": "ঘুম থেকে উঠলে: আজ কয়টি ডোজ আর প্রথমটি কখন",
+    "takeOnTime": "শুধু সময়মতো খাওয়া",
+    "takeOnTimeHint": "ডোজের ১ ঘণ্টা আগে থেকে \"খেয়েছি\" দেওয়া যাবে; খাবারের সঙ্গে খাওয়ার ওষুধে দিনের ওই অংশ শুরু হলেই। \"বাদ দিন\" সবসময় কাজ করে।",
+    "dayParts": "খাবারের সঙ্গে খাওয়ার ওষুধের জন্য দিনের কোন অংশ কখন শুরু।",
+    "morningFrom": "সকাল শুরু",
+    "afternoonFrom": "দুপুর শুরু",
+    "nightFrom": "রাত শুরু",
+    "dayPartsOrder": "সকাল, দুপুর আর রাত এই ক্রমেই হতে হবে।"
   },
   "permissions": {
     "blockedTitle": "রিমাইন্ডার বন্ধ আছে",
@@ -321,7 +328,9 @@
     "takeAllTitle_one": "{{count}}টি ওষুধ খাওয়া হয়েছে দেবেন?",
     "takeAllTitle_other": "{{count}}টি ওষুধ খাওয়া হয়েছে দেবেন?",
     "markTaken_one": "{{count}}টি খাওয়া হয়েছে দিন",
-    "markTaken_other": "{{count}}টি খাওয়া হয়েছে দিন"
+    "markTaken_other": "{{count}}টি খাওয়া হয়েছে দিন",
+    "opensAt": "{{time}} থেকে",
+    "opensAtHint": "{{time}} থেকে \"খেয়েছি\" দেওয়া যাবে"
   },
   "medicine": {
     "addTitle": "ওষুধ যোগ করুন",

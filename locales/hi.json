@@ -133,7 +133,14 @@
     "snoozeLength": "स्नूज़ की अवधि",
     "minutes": "{{count}} मिनट",
     "dailyReports": "सुबह का नोट",
-    "dailyReportsHint": "उठने पर: आज कितनी खुराकें और पहली कब"
+    "dailyReportsHint": "उठने पर: आज कितनी खुराकें और पहली कब",
+    "takeOnTime": "सिर्फ़ समय पर लें",
+    "takeOnTimeHint": "खुराक से 1 घंटा पहले से \"ले ली\" दबा सकते हैं; खाने के साथ वाली दवा में दिन का वह हिस्सा शुरू होते ही। \"छोड़ें\" हमेशा काम करता है।",
+    "dayParts": "खाने के साथ वाली दवाओं के लिए दिन का हर हिस्सा कब शुरू होता है।",
+    "morningFrom": "सुबह शुरू",
+    "afternoonFrom": "दोपहर शुरू",
+    "nightFrom": "रात शुरू",
+    "dayPartsOrder": "सुबह, दोपहर और रात इसी क्रम में होने चाहिए।"
   },
   "permissions": {
     "blockedTitle": "रिमाइंडर बंद हैं",
@@ -321,7 +328,9 @@
     "takeAllTitle_one": "{{count}} दवा ली गई मार्क करें?",
     "takeAllTitle_other": "{{count}} दवाएँ ली गईं मार्क करें?",
     "markTaken_one": "{{count}} ली गई मार्क करें",
-    "markTaken_other": "{{count}} ली गईं मार्क करें"
+    "markTaken_other": "{{count}} ली गईं मार्क करें",
+    "opensAt": "{{time}} से",
+    "opensAtHint": "{{time}} से \"ले ली\" दबा सकते हैं"
   },
   "medicine": {
     "addTitle": "दवा जोड़ें",

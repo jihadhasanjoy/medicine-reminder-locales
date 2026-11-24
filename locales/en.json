@@ -133,7 +133,14 @@
     "snoozeLength": "Snooze length",
     "minutes": "{{count}} min",
     "dailyReports": "Morning note",
-    "dailyReportsHint": "When you wake up: how many doses today and when the first is"
+    "dailyReportsHint": "When you wake up: how many doses today and when the first is",
+    "takeOnTime": "Take only at its time",
+    "takeOnTimeHint": "Taken opens 1 hour before a dose, or from the start of its part of the day for doses with a meal. Skip always works.",
+    "dayParts": "When each part of the day starts, for doses taken with a meal.",
+    "morningFrom": "Morning from",
+    "afternoonFrom": "Afternoon from",
+    "nightFrom": "Night from",
+    "dayPartsOrder": "Morning, afternoon and night need to be in that order."
   },
   "permissions": {
     "blockedTitle": "Reminders are blocked",
@@ -321,7 +328,9 @@
     "takeAllTitle_one": "Mark {{count}} medicine as taken?",
     "takeAllTitle_other": "Mark {{count}} medicines as taken?",
     "markTaken_one": "Mark {{count}} as taken",
-    "markTaken_other": "Mark {{count}} as taken"
+    "markTaken_other": "Mark {{count}} as taken",
+    "opensAt": "From {{time}}",
+    "opensAtHint": "Taken opens at {{time}}"
   },
   "medicine": {
     "addTitle": "Add medicine",

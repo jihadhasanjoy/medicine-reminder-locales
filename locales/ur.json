@@ -133,7 +133,14 @@
     "snoozeLength": "اسنوز کا دورانیہ",
     "minutes": "{{count}} منٹ",
     "dailyReports": "صبح کا نوٹ",
-    "dailyReportsHint": "جاگنے پر: آج کتنی خوراکیں اور پہلی کب"
+    "dailyReportsHint": "جاگنے پر: آج کتنی خوراکیں اور پہلی کب",
+    "takeOnTime": "صرف وقت پر لیں",
+    "takeOnTimeHint": "خوراک سے 1 گھنٹہ پہلے سے \"لے لی\" دبا سکتے ہیں؛ کھانے کے ساتھ والی دوا میں دن کا وہ حصہ شروع ہوتے ہی۔ \"چھوڑ دیں\" ہمیشہ کام کرتا ہے۔",
+    "dayParts": "کھانے کے ساتھ والی دواؤں کے لیے دن کا ہر حصہ کب شروع ہوتا ہے۔",
+    "morningFrom": "صبح شروع",
+    "afternoonFrom": "دوپہر شروع",
+    "nightFrom": "رات شروع",
+    "dayPartsOrder": "صبح، دوپہر اور رات اسی ترتیب میں ہونے چاہئیں۔"
   },
   "permissions": {
     "blockedTitle": "یاد دہانیاں بند ہیں",
@@ -321,7 +328,9 @@
     "takeAllTitle_one": "{{count}} دوا لی گئی نشان لگائیں؟",
     "takeAllTitle_other": "{{count}} دوائیں لی گئیں نشان لگائیں؟",
     "markTaken_one": "{{count}} لی گئی نشان لگائیں",
-    "markTaken_other": "{{count}} لی گئیں نشان لگائیں"
+    "markTaken_other": "{{count}} لی گئیں نشان لگائیں",
+    "opensAt": "{{time}} سے",
+    "opensAtHint": "{{time}} سے \"لے لی\" دبا سکتے ہیں"
   },
   "medicine": {
     "addTitle": "دوا شامل کریں",

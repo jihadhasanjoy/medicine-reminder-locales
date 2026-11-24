@@ -133,7 +133,14 @@
     "snoozeLength": "Durata del posticipo",
     "minutes": "{{count}} min",
     "dailyReports": "Nota del mattino",
-    "dailyReportsHint": "Al risveglio: quante dosi oggi e quando c'è la prima"
+    "dailyReportsHint": "Al risveglio: quante dosi oggi e quando c'è la prima",
+    "takeOnTime": "Solo all'orario giusto",
+    "takeOnTimeHint": "\"Presa\" si sblocca 1 ora prima della dose, o dall'inizio della parte del giorno per le dosi ai pasti. \"Salta\" funziona sempre.",
+    "dayParts": "Quando inizia ogni parte del giorno, per le dosi ai pasti.",
+    "morningFrom": "Mattina dalle",
+    "afternoonFrom": "Pomeriggio dalle",
+    "nightFrom": "Sera dalle",
+    "dayPartsOrder": "Mattina, pomeriggio e sera devono essere in quest'ordine."
   },
   "permissions": {
     "blockedTitle": "Promemoria bloccati",
@@ -321,7 +328,9 @@
     "takeAllTitle_one": "Segnare {{count}} medicina come presa?",
     "takeAllTitle_other": "Segnare {{count}} medicine come prese?",
     "markTaken_one": "Segna {{count}} come presa",
-    "markTaken_other": "Segna {{count}} come prese"
+    "markTaken_other": "Segna {{count}} come prese",
+    "opensAt": "Dalle {{time}}",
+    "opensAtHint": "\"Presa\" disponibile dalle {{time}}"
   },
   "medicine": {
     "addTitle": "Aggiungi medicina",

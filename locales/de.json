@@ -133,7 +133,14 @@
     "snoozeLength": "Schlummerdauer",
     "minutes": "{{count}} Min.",
     "dailyReports": "Morgennotiz",
-    "dailyReportsHint": "Beim Aufwachen: wie viele Dosen heute und wann die erste ist"
+    "dailyReportsHint": "Beim Aufwachen: wie viele Dosen heute und wann die erste ist",
+    "takeOnTime": "Nur zur richtigen Zeit",
+    "takeOnTimeHint": "„Genommen“ geht ab 1 Stunde vor der Dosis, bei Dosen zum Essen ab Beginn des Tagesabschnitts. „Auslassen“ geht immer.",
+    "dayParts": "Wann die Tagesabschnitte beginnen, für Dosen zum Essen.",
+    "morningFrom": "Morgen ab",
+    "afternoonFrom": "Mittag ab",
+    "nightFrom": "Abend ab",
+    "dayPartsOrder": "Morgen, Mittag und Abend müssen in dieser Reihenfolge sein."
   },
   "permissions": {
     "blockedTitle": "Erinnerungen sind blockiert",
@@ -321,7 +328,9 @@
     "takeAllTitle_one": "{{count}} Medikament als genommen markieren?",
     "takeAllTitle_other": "{{count}} Medikamente als genommen markieren?",
     "markTaken_one": "{{count}} als genommen markieren",
-    "markTaken_other": "{{count}} als genommen markieren"
+    "markTaken_other": "{{count}} als genommen markieren",
+    "opensAt": "Ab {{time}}",
+    "opensAtHint": "„Genommen“ ab {{time}} möglich"
   },
   "medicine": {
     "addTitle": "Medikament hinzufügen",
