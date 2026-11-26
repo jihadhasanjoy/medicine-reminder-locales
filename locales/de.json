@@ -111,7 +111,8 @@
     "tagline": "Damit du und deine Familie jede Dosis pünktlich nehmt.",
     "languageIntro": "Wähle die Sprache für die ganze App. Neue Sprachen werden von selbst geladen.",
     "testBuild": "Test",
-    "groupMedicines": "Medikamente"
+    "groupMedicines": "Medikamente",
+    "privacyPolicy": "Datenschutzerklärung"
   },
   "reminders": {
     "title": "Erinnerungen",

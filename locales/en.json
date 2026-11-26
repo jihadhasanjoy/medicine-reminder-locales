@@ -111,7 +111,8 @@
     "tagline": "Made to help you and your family take every dose on time.",
     "languageIntro": "Choose the language for the whole app. New languages download on their own.",
     "testBuild": "Test",
-    "groupMedicines": "Medicines"
+    "groupMedicines": "Medicines",
+    "privacyPolicy": "Privacy policy"
   },
   "reminders": {
     "title": "Reminders",
